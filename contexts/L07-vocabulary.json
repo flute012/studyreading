@@ -1,0 +1,738 @@
+[
+  {
+    "section": "Words for Production",
+    "word_forms": [
+      {
+        "root_word": "triumph",
+        "word": "triumph",
+        "phonetics": "[`traɪəmf]",
+        "syllable": "tri·umph",
+        "pos": "n. [U, C]",
+        "definition_zh": "勝利；成就",
+        "definition_en": "a great success or achievement",
+        "examples": [
+          {
+            "example": "The soccer team’s moment of <b>triumph</b> came when the final goal was scored.",
+            "translate": "那支足球隊在進了最後一球時，迎來了他們的勝利時刻。"
+          },
+          {
+            "example": "The success of the pop star’s new album is a <b>triumph</b> over critics who said she would never make great music again.",
+            "translate": "那位流行歌手新專輯的成功是對那些說她再也做不出好音樂的評論家的一次勝利。"
+          }
+        ],
+        "number": "wp_1"
+      },
+      {
+        "root_word": "triumph",
+        "word": "triumph",
+        "phonetics": "[`traɪəmf]",
+        "syllable": "tri·umph",
+        "pos": "n. [U]",
+        "definition_zh": "（因勝利而產生的）喜悅；得意",
+        "definition_en": "joy or satisfaction from victory",
+        "examples": [
+          {
+            "example": "When the actor was presented with the award, he smiled in <b>triumph</b> and waved to the audience.",
+            "translate": "當那位演員獲頒獎項時，他得意地笑了，並向觀眾揮手。"
+          }
+        ],
+        "number": "wp_1_1"
+      },
+      {
+        "root_word": "apply",
+        "word": "apply",
+        "phonetics": "[ə`plaɪ]",
+        "syllable": "ap·ply",
+        "pos": "vi.",
+        "verb_pattern": "applied-applied-applying",
+        "definition_zh": "申請；報名",
+        "definition_en": "to officially request something, such as a job or a place at a university",
+        "examples": [
+          {
+            "example": "To <b>apply</b> for the job, Mary had to fill out several forms and send them to the company.",
+            "translate": "Mary為了申請這份工作，必須填寫好幾份表格並寄給這家公司。"
+          }
+        ],
+        "number": "wp_2"
+      },
+      {
+        "root_word": "apply",
+        "word": "application",
+        "phonetics": "[͵æplə`keʃən]",
+        "syllable": "ap·pli·ca·tion",
+        "pos": "n. [U, C]",
+        "definition_zh": "申請；申請書",
+        "definition_en": "a formal request or document for something",
+        "examples": [
+          {
+            "example": "In Joy’s letter of <b>application</b>, she explained why she wanted to study at the university.",
+            "translate": "Joy在她的申請信中解釋了她為什麼想在該大學就讀。"
+          },
+          {
+            "example": "You should fill out your passport <b>application</b> right away in case it takes longer than you expect.",
+            "translate": "你應該立刻填寫你的護照申請表，以免它要花的時間比你預期的更長。"
+          }
+        ],
+        "number": "wp_2_1"
+      },
+      {
+        "root_word": "apply",
+        "word": "applicant",
+        "phonetics": "[`æpləkənt]",
+        "syllable": "ap·pli·cant",
+        "pos": "n. [C]",
+        "definition_zh": "申請人",
+        "definition_en": "a person who applies for something",
+        "examples": [
+          {
+            "example": "A suitable <b>applicant</b> for the position of manager will be someone with strong leadership and communication skills.",
+            "translate": "適合經理職位的應徵者將是一個具有強大領導力和溝通技巧的人。"
+          }
+        ],
+        "number": "wp_2_2"
+      },
+      {
+        "root_word": "instrument",
+        "word": "instrument",
+        "phonetics": "[`ɪnstrəmənt]",
+        "syllable": "in·stru·ment",
+        "pos": "n. [C]",
+        "definition_zh": "樂器",
+        "definition_en": "an item whose main use is to make music, such as a guitar or violin",
+        "examples": [
+          {
+            "example": "Harry can play several <b>instruments</b>, such as the piano and the trumpet.",
+            "translate": "Harry能演奏好幾種樂器，比如鋼琴和小號。"
+          }
+        ],
+        "number": "wp_3"
+      },
+      {
+        "root_word": "instrument",
+        "word": "instrument",
+        "phonetics": "[`ɪnstrəmənt]",
+        "syllable": "in·stru·ment",
+        "pos": "n. [C]",
+        "definition_zh": "儀器；器具",
+        "definition_en": "a tool or device used for a specific purpose",
+        "examples": [
+          {
+            "example": "In our testing center, we use many different scientific <b>instruments</b> to do our experiments.",
+            "translate": "在我們的測試中心，我們使用許多不同的科學儀器來進行我們的實驗。"
+          }
+        ],
+        "number": "wp_3_1"
+      },
+      {
+        "root_word": "somehow",
+        "word": "somehow",
+        "phonetics": "[`sʌm͵haʊ]",
+        "syllable": "some·how",
+        "pos": "adv.",
+        "definition_zh": "以某種方式；不知怎麼地",
+        "definition_en": "in a manner that is not clear or cannot be easily understood",
+        "examples": [
+          {
+            "example": "When Gina lost her keys, her dog <b>somehow</b> knew exactly where to find them.",
+            "translate": "當Gina弄丟她的鑰匙時，她的狗不知怎麼地準確地知道在哪裡找到它們。"
+          }
+        ],
+        "number": "wp_4"
+      },
+      {
+        "root_word": "barely",
+        "word": "barely",
+        "phonetics": "[`bɛrlɪ]",
+        "syllable": "bare·ly",
+        "pos": "adv.",
+        "definition_zh": "幾乎不",
+        "definition_en": "almost not",
+        "examples": [
+          {
+            "example": "Justin and Kate could <b>barely</b> believe their ears when the doctor told them they were going to have twins.",
+            "translate": "當醫生告訴Justin和Kate他們將會有雙胞胎時，他們幾乎不敢相信自己的耳朵。"
+          }
+        ],
+        "number": "wp_5"
+      },
+      {
+        "root_word": "bare",
+        "word": "bare",
+        "phonetics": "[bɛr]",
+        "syllable": "bare",
+        "pos": "adj.",
+        "definition_zh": "赤裸的",
+        "definition_en": "naked or uncovered",
+        "examples": [
+          {
+            "example": "It is traditional in Thailand to enter temples in <b>bare</b> feet or socks.",
+            "translate": "在泰國，進入寺廟時傳統上要打赤腳或穿襪子。"
+          }
+        ],
+        "number": "wp_5_1"
+      },
+      {
+        "root_word": "invaluable",
+        "word": "invaluable",
+        "phonetics": "[ɪn`væljəbəl]",
+        "syllable": "in·val·u·a·ble",
+        "pos": "adj.",
+        "definition_zh": "非常寶貴的",
+        "definition_en": "very important or useful",
+        "examples": [
+          {
+            "example": "Eric’s grandma has a lot of life experience, so her advice is <b>invaluable</b> to him.",
+            "translate": "Eric的祖母擁有豐富的人生經驗，所以她的建議對他來說非常寶貴。"
+          }
+        ],
+        "number": "wp_6"
+      },
+      {
+        "root_word": "encouragement",
+        "word": "encouragement",
+        "phonetics": "[ɪn`kɝɪdʒmənt]",
+        "syllable": "en·cour·age·ment",
+        "pos": "n. [U]",
+        "definition_zh": "鼓勵；鼓舞",
+        "definition_en": "words or actions that make a person feel more confident about doing something",
+        "examples": [
+          {
+            "example": "My mom’s <b>encouragement</b> helped me feel less nervous before the school play.",
+            "translate": "我媽媽的鼓勵幫助我在學校戲劇表演前感到不那麼緊張。"
+          }
+        ],
+        "number": "wp_7"
+      },
+      {
+        "root_word": "encouragement",
+        "word": "encourage",
+        "phonetics": "[ɪn`kɝrɪdʒ]",
+        "syllable": "en·cour·age",
+        "pos": "vt.",
+        "definition_zh": "鼓勵",
+        "definition_en": "to give someone support or confidence to do something",
+        "examples": [
+          {
+            "example": "Sarah’s friends <b>encouraged</b> her to improve her health by jogging every morning and eating more fruit and vegetables.",
+            "translate": "Sarah的朋友們鼓勵她透過每天早上慢跑和多吃水果蔬菜來改善健康。"
+          }
+        ],
+        "number": "wp_7_1"
+      },
+      {
+        "root_word": "encouragement",
+        "word": "discourage",
+        "phonetics": "[dɪs`kɝrɪdʒ]",
+        "syllable": "dis·cour·age",
+        "pos": "vt.",
+        "definition_zh": "阻止；勸阻",
+        "definition_en": "to make someone feel less confident or willing to do something",
+        "examples": [
+          {
+            "example": "Because Lisa’s parents worried about her safety, they <b>discouraged</b> her from staying out late at night.",
+            "translate": "因為Lisa的父母擔心她的安全，他們阻止她晚上在外面待到太晚。"
+          }
+        ],
+        "number": "wp_7_2"
+      },
+      {
+        "root_word": "concert",
+        "word": "concert",
+        "phonetics": "[`kɑnsɚt]",
+        "syllable": "con·cert",
+        "pos": "n. [C]",
+        "definition_zh": "音樂會",
+        "definition_en": "a musical performance or show given in a public place",
+        "examples": [
+          {
+            "example": "Tom and Karen went to a classical <b>concert</b> to celebrate one year of marriage.",
+            "translate": "Tom和Karen去參加了一場古典音樂會，以慶祝他們結婚一周年。"
+          }
+        ],
+        "number": "wp_8"
+      },
+      {
+        "root_word": "receive",
+        "word": "receive",
+        "phonetics": "[rɪ`siv]",
+        "syllable": "re·ceive",
+        "pos": "vt.",
+        "definition_zh": "收到；獲得",
+        "definition_en": "to be sent or given something",
+        "examples": [
+          {
+            "example": "Andy <b>received</b> a pair of gloves from his girlfriend as a Christmas gift.",
+            "translate": "Andy從他女朋友那裡收到了一雙手套作為聖誕禮物。"
+          }
+        ],
+        "number": "wp_9"
+      },
+      {
+        "root_word": "dazzle",
+        "word": "dazzle",
+        "phonetics": "[`dæzl]",
+        "syllable": "daz·zle",
+        "pos": "vt.",
+        "definition_zh": "使讚嘆；使傾倒",
+        "definition_en": "to amaze someone with a particularly impressive quality",
+        "examples": [
+          {
+            "example": "During his performance, the guitar player <b>dazzled</b> the audience with his unbelievable skills.",
+            "translate": "在他的表演中，吉他手用他不可思議的技巧讓觀眾讚嘆。"
+          }
+        ],
+        "number": "wp_10"
+      },
+      {
+        "root_word": "dazzle",
+        "word": "dazzle",
+        "phonetics": "[`dæzl]",
+        "syllable": "daz·zle",
+        "pos": "vt.",
+        "definition_zh": "（強光）使目眩；使眼花",
+        "definition_en": "to make someone unable to see clearly because of bright light",
+        "examples": [
+          {
+            "example": "While Jerry was driving at night, the lights from an oncoming car <b>dazzled</b> him, and he almost had an accident.",
+            "translate": "當Jerry在晚上開車時，迎面而來一輛車子的車燈使他目眩，他差點發生意外。"
+          }
+        ],
+        "number": "wp_10_1"
+      },
+      {
+        "root_word": "potential",
+        "word": "potential",
+        "phonetics": "[pə`tɛnʃəl]",
+        "syllable": "po·ten·tial",
+        "pos": "n. [U]",
+        "definition_zh": "潛力",
+        "definition_en": "qualities that could be developed and bring a person success",
+        "examples": [
+          {
+            "example": "With the help of their new coach, the baseball players are able to reach their full <b>potential</b> in games.",
+            "translate": "在新教練的幫助下，這些棒球選手能夠在比賽中完全發揮他們的潛力。"
+          }
+        ],
+        "number": "wp_11"
+      },
+      {
+        "root_word": "potential",
+        "word": "potential",
+        "phonetics": "[pə`tɛnʃəl]",
+        "syllable": "po·ten·tial",
+        "pos": "n. [U]",
+        "definition_zh": "可能性",
+        "definition_en": "the possibility that something will happen",
+        "examples": [
+          {
+            "example": "This report shows that the <b>potential</b> for traffic accidents increases on rainy days.",
+            "translate": "這份報告顯示，交通事故在雨天發生的可能性會增加。"
+          }
+        ],
+        "number": "wp_11_1"
+      },
+      {
+        "root_word": "potential",
+        "word": "potential",
+        "phonetics": "[pə`tɛnʃəl]",
+        "syllable": "po·ten·tial",
+        "pos": "adj.",
+        "definition_zh": "潛在的；可能的",
+        "definition_en": "possible or likely to happen in the future",
+        "examples": [
+          {
+            "example": "Self-driving cars pose <b>potential</b> dangers, including technical problems and difficulties in understanding road situations.",
+            "translate": "自動駕駛汽車存在潛在的危險，包括技術問題和難以理解道路狀況。"
+          }
+        ],
+        "number": "wp_11_2"
+      },
+      {
+        "root_word": "scream",
+        "word": "scream",
+        "phonetics": "[skrim]",
+        "syllable": "scream",
+        "pos": "n. [C]",
+        "definition_zh": "尖叫",
+        "definition_en": "a loud high cry one makes when he or she is hurt, frightened, excited, etc.",
+        "examples": [
+          {
+            "example": "The children let out <b>screams</b> of delight during the roller-coaster ride.",
+            "translate": "孩子們在乘坐雲霄飛車時發出了歡樂的尖叫聲。"
+          }
+        ],
+        "number": "wp_12"
+      },
+      {
+        "root_word": "scream",
+        "word": "scream",
+        "phonetics": "[skrim]",
+        "syllable": "scream",
+        "pos": "vi.",
+        "definition_zh": "尖叫",
+        "definition_en": "to make a loud high cry because of pain, fear, excitement, etc.",
+        "examples": [
+          {
+            "example": "Nancy <b>screamed</b> in terror when she was shaken awake by a powerful earthquake in the middle of the night.",
+            "translate": "Nancy在半夜被一場強烈地震震醒時，驚恐地尖叫起來。"
+          }
+        ],
+        "number": "wp_12_1"
+      },
+      {
+        "root_word": "dizzy",
+        "word": "dizzy",
+        "phonetics": "[`dɪzi]",
+        "syllable": "diz·zy",
+        "pos": "adj.",
+        "definition_zh": "頭暈目眩的",
+        "definition_en": "feeling that you are losing your balance and that everything is spinning around",
+        "examples": [
+          {
+            "example": "When my favorite band announced that they were coming to perform in my hometown, I felt <b>dizzy</b> with excitement.",
+            "translate": "當我最喜歡的樂團宣布他們要來我的家鄉表演時，我因興奮而感到暈眩。"
+          }
+        ],
+        "number": "wp_13"
+      },
+      {
+        "root_word": "overseas",
+        "word": "overseas",
+        "phonetics": "[ˏoʊvər`siz]",
+        "syllable": "o·ver·seas",
+        "pos": "adv.",
+        "definition_zh": "在海外；到海外",
+        "definition_en": "in or to a foreign country, usually one across an ocean",
+        "examples": [
+          {
+            "example": "After Tina quit her job, she lived <b>overseas</b> in South America for a year to experience life in a different culture.",
+            "translate": "Tina辭掉工作後，在海外的南美洲生活了一年，體驗不同文化的生活。"
+          }
+        ],
+        "number": "wp_14"
+      },
+      {
+        "root_word": "overseas",
+        "word": "overseas",
+        "phonetics": "[ˏoʊvər`siz]",
+        "syllable": "o·ver·seas",
+        "pos": "adj.",
+        "definition_zh": "海外的",
+        "definition_en": "relating to or coming from a foreign country",
+        "examples": [
+          {
+            "example": "Many <b>overseas</b> students come to this university to study and make friends from all over the world.",
+            "translate": "許多海外學生來到這所大學念書，並與來自世界各地的人交朋友。"
+          }
+        ],
+        "number": "wp_14_1"
+      },
+      {
+        "root_word": "determination",
+        "word": "determination",
+        "phonetics": "[ˏdɪtɝrmə`neɪʃən]",
+        "syllable": "de·ter·mi·na·tion",
+        "pos": "n. [U]",
+        "definition_zh": "決心",
+        "definition_en": "the quality that makes someone keep trying to achieve something difficult",
+        "examples": [
+          {
+            "example": "Kevin showed strong <b>determination</b> to improve his swimming skills by taking lessons every week and practicing hard in his free time.",
+            "translate": "Kevin藉由每週上課和空閒時間努力練習，展現他想提升游泳技術的強烈決心。"
+          }
+        ],
+        "number": "wp_15"
+      },
+      {
+        "root_word": "determination",
+        "word": "determine",
+        "phonetics": "[dɪ`tɝrmɪn]",
+        "syllable": "de·ter·mine",
+        "pos": "vt.",
+        "definition_zh": "決定；影響",
+        "definition_en": "to decide or influence the outcome of something",
+        "examples": [
+          {
+            "example": "The meeting will <b>determine</b> when we can start hiring new workers.",
+            "translate": "這場會議將決定我們何時可以開始招募新員工。"
+          }
+        ],
+        "number": "wp_15_1"
+      },
+      {
+        "root_word": "faith",
+        "word": "faith",
+        "phonetics": "[feɪθ]",
+        "syllable": "faith",
+        "pos": "n. [U]",
+        "definition_zh": "信心；信任",
+        "definition_en": "trust in something or confidence that someone will do something specific",
+        "examples": [
+          {
+            "example": "Although we were losing at halftime, our teacher had <b>faith</b> in our ability to turn the game around and win.",
+            "translate": "儘管我們在中場休息時落後，但我們的老師對我們扭轉局勢並贏得比賽的能力有信心。"
+          }
+        ],
+        "number": "wp_16"
+      },
+      {
+        "root_word": "faith",
+        "word": "faithful",
+        "phonetics": "[`feɪθfəl]",
+        "syllable": "faith·ful",
+        "pos": "adj.",
+        "definition_zh": "忠誠的；忠實的",
+        "definition_en": "loyal and true to someone or something",
+        "examples": [
+          {
+            "example": "At their wedding, Nick and Fiona promised to remain <b>faithful</b> to each other forever.",
+            "translate": "在他們的婚禮上，Nick和Fiona承諾永遠對彼此保持忠誠。"
+          }
+        ],
+        "number": "wp_16_1"
+      },
+      {
+        "root_word": "pursue",
+        "word": "pursue",
+        "phonetics": "[pə`sjuː]",
+        "syllable": "pur·sue",
+        "pos": "vt.",
+        "definition_zh": "追求；從事",
+        "definition_en": "to do something or seek to achieve something, often over a long period",
+        "examples": [
+          {
+            "example": "Harriet practices very hard to <b>pursue</b> her goal of becoming a successful dancer.",
+            "translate": "Harriet非常努力練習以追求她成為一名成功舞者的目標。"
+          }
+        ],
+        "number": "wp_17"
+      },
+      {
+        "root_word": "pursue",
+        "word": "pursue",
+        "phonetics": "[pə`sjuː]",
+        "syllable": "pur·sue",
+        "pos": "vt.",
+        "definition_zh": "追逐；追捕",
+        "definition_en": "to chase someone or something",
+        "examples": [
+          {
+            "example": "The police officers <b>pursued</b> the thief through the streets of the city until they caught him.",
+            "translate": "警察在城裡的街道上追捕那個小偷，直到他們抓到他。"
+          }
+        ],
+        "number": "wp_17_1"
+      },
+      {
+        "root_word": "pursue",
+        "word": "pursuit",
+        "phonetics": "[pə`sjuːt]",
+        "syllable": "pur·suit",
+        "pos": "n. [U]",
+        "definition_zh": "追求",
+        "definition_en": "the act of pursuing something",
+        "examples": [
+          {
+            "example": "Many young people are leaving this poor village in <b>pursuit</b> of a better job.",
+            "translate": "許多年輕人正離開這個貧窮的村莊以追求更好的工作。"
+          }
+        ],
+        "number": "wp_17_2"
+      }
+    ]
+  },
+  {
+    "section": "Idioms and Phrases",
+    "word_forms": [
+      {
+        "root_word": "tons of",
+        "word": "tons of",
+        "definition_zh": "大量；許多",
+        "definition_en": "a great amount of",
+        "examples": [
+          {
+            "example": "Emily spends little time with her family because she has <b>tons of</b> work to do every day.",
+            "translate": "Emily每天有大量的工作要做，所以她與家人相處的時間很少。"
+          }
+        ],
+        "number": "ip_1"
+      },
+      {
+        "root_word": "look for",
+        "word": "look for",
+        "definition_zh": "尋找",
+        "definition_en": "to attempt to find someone or something",
+        "examples": [
+          {
+            "example": "David <b>looked for</b> his lost phone all over the house but couldn’t find it.",
+            "translate": "David在房子裡到處尋找他丟失的手機，但找不到。"
+          }
+        ],
+        "number": "ip_2"
+      },
+      {
+        "root_word": "make a living",
+        "word": "make a living",
+        "definition_zh": "謀生",
+        "definition_en": "to earn money, usually by having a job",
+        "examples": [
+          {
+            "example": "Joe <b>makes a living</b> by working as a cook in an Italian restaurant.",
+            "translate": "Joe在一家義大利餐廳擔任廚師來謀生。"
+          }
+        ],
+        "number": "ip_3"
+      },
+      {
+        "root_word": "look forward to",
+        "word": "look forward to",
+        "definition_zh": "期待",
+        "definition_en": "to be excited about a future event",
+        "examples": [
+          {
+            "example": "Betsy is really <b>looking forward to</b> her first trip to Europe this summer.",
+            "translate": "Betsy非常期待今年夏天的第一次歐洲之旅。"
+          }
+        ],
+        "number": "ip_4"
+      },
+      {
+        "root_word": "be/get carried away",
+        "word": "be/get carried away",
+        "definition_zh": "陶醉",
+        "definition_en": "to feel deeply attracted, as if by magic",
+        "examples": [
+          {
+            "example": "During the movie, I was <b>carried away</b> by the touching love story between the two main characters.",
+            "translate": "在看電影時，我陶醉在兩位主角之間感人的愛情故事。"
+          }
+        ],
+        "number": "ip_5"
+      },
+      {
+        "root_word": "be/get carried away",
+        "word": "be/get carried away",
+        "definition_zh": "激動得無法自持",
+        "definition_en": "to lose one’s self-control, often in delight or excitement",
+        "examples": [
+          {
+            "example": "While Sam was watching the basketball game, he <b>got carried away</b> and cheered louder than everyone else in the gymnasium.",
+            "translate": "當Sam在觀看籃球比賽時，他激動得無法自持，呼喊得比體育館裡的其他人都更大聲。"
+          }
+        ],
+        "number": "ip_5_1"
+      },
+      {
+        "root_word": "come out of",
+        "word": "come out of",
+        "definition_zh": "由⋯⋯產生",
+        "definition_en": "to grow or result from something",
+        "examples": [
+          {
+            "example": "The athlete’s victory at the swim meet <b>came out of</b> many months of hard work.",
+            "translate": "這位運動員在游泳比賽中的勝利來自於好幾個月的辛勤努力。"
+          }
+        ],
+        "number": "ip_6"
+      },
+      {
+        "root_word": "as soon as",
+        "word": "as soon as",
+        "definition_zh": "一⋯⋯就⋯⋯",
+        "definition_en": "immediately after or at the same moment as something happens",
+        "examples": [
+          {
+            "example": "<b>As soon as</b> the rain stopped, the children rushed outside to play in the sunny park.",
+            "translate": "雨一停，孩子們就衝出去在陽光明媚的公園裡玩耍。"
+          }
+        ],
+        "number": "ip_7"
+      }
+    ]
+  },
+  {
+    "section": "Words for Recognition",
+    "word_forms": [
+      {
+        "root_word": "slum",
+        "word": "slum",
+        "phonetics": "[slʌm]",
+        "syllable": "slum",
+        "pos": "n. [C]",
+        "definition_zh": "貧民窟",
+        "examples": [],
+        "number": "wr_1"
+      },
+      {
+        "root_word": "Cateura landfill",
+        "word": "Cateura landfill",
+        "phonetics": "[kɑ`turɑ `lændfɪl]",
+        "syllable": "Ca·teu·ra land·fill",
+        "pos": "n.",
+        "definition_zh": "卡特烏拉垃圾掩埋場（位於亞松森市郊，為巴拉圭最大的垃圾掩埋場）",
+        "examples": [],
+        "number": "wr_2"
+      },
+      {
+        "root_word": "Paraguay",
+        "word": "Paraguay",
+        "phonetics": "[`pærəgwaɪ]",
+        "syllable": "Pa·ra·guay",
+        "pos": "n.",
+        "definition_zh": "巴拉圭",
+        "examples": [],
+        "number": "wr_3"
+      },
+      {
+        "root_word": "unload",
+        "word": "unload",
+        "phonetics": "[ʌn`lod]",
+        "syllable": "un·load",
+        "pos": "vt.",
+        "definition_zh": "（從車上）卸下",
+        "examples": [],
+        "number": "wr_4"
+      },
+      {
+        "root_word": "screech",
+        "word": "screech",
+        "phonetics": "[skritʃ]",
+        "syllable": "screech",
+        "pos": "n. [C]",
+        "definition_zh": "尖銳刺耳的聲音",
+        "examples": [],
+        "number": "wr_5"
+      },
+      {
+        "root_word": "harmoniously",
+        "word": "harmoniously",
+        "phonetics": "[hɑr`moʊniəsli]",
+        "syllable": "har·mo·ni·ous·ly",
+        "pos": "adv.",
+        "definition_zh": "和諧地",
+        "examples": [],
+        "number": "wr_6"
+      },
+      {
+        "root_word": "orchestra",
+        "word": "orchestra",
+        "phonetics": "[`ɔrkɪstrə]",
+        "syllable": "or·ches·tra",
+        "pos": "n. [C]",
+        "definition_zh": "管弦樂團",
+        "examples": [],
+        "number": "wr_7"
+      },
+      {
+        "root_word": "glaring",
+        "word": "glaring",
+        "phonetics": "[`ɡlɛrɪŋ]",
+        "syllable": "glar·ing",
+        "pos": "adj.",
+        "definition_zh": "刺眼的；炫目的",
+        "examples": [],
+        "number": "wr_8"
+      }
+    ]
+  }
+]

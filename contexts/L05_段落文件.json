@@ -1,0 +1,36 @@
+{
+    "L05-課文中英對照(The Life of a Plastic Bag).docx": [
+        {
+            "paragraph_index": 1,
+            "english": "I am a plastic bag. When I was very young, I was sent from the factory to a convenience store. I stayed there for a long time and waited eagerly to be used. Finally, some kids came along, bought some snacks, and took me along to the beach for a picnic. When it was getting dark, they packed everything up and let me stay there alone! The wind started to howl, and suddenly I was in the sea all on my own.",
+            "english_with_html": "I am a plastic bag. When I was very young, I was sent from the factory to a <b id=\"wp_2\">convenience</b><span style=\"color: #0070C0\"> </span> store. I stayed there for a long time and waited <b id=\"wp_3\">eagerly</b><span style=\"color: #0070C0\"> </span> to be used. Finally, some kids <span style=\"color: #0070C0\"><b>came along</b></span>, bought some snacks, and took me along to the beach for a picnic. When it was getting dark, they <span style=\"color: #0070C0\"><b>packed</b></span> everything <span style=\"color: #0070C0\"><b id=\"ip_5\">up</b></span> and let me stay there alone ! The wind started to <b id=\"wr_1\">howl</b>, and suddenly I was in the sea all <span style=\"color: #0070C0\"><b>on my own</b></span>.",
+            "chinese": "我是一個塑膠袋。在我非常年幼的時候，我從工廠被送到一間便利商店。我在那裡待了很長的一段時間，並渴望地等著被使用。終於，有一些小孩出現，買了一些零食，並把我帶到海灘野餐。當天色漸暗，他們收拾所有東西並讓我獨自待在那裡！風開始呼嘯，突然間我獨自漂流在海中。",
+            "summary": "Summary generation failed",
+            "summary_chinese": "摘要生成失敗"
+        },
+        {
+            "paragraph_index": 2,
+            "english": "I floated helplessly in the water for a while, but soon realized I wasn’t alone. I was surrounded by plastic cups, plates, and straws. After days of drifting, I started to envy the birds up above, who were flying so high and free. I could only follow the currents. Suddenly, I went down a tunnel into a chamber. “What happened?” I asked a fork next to me. “I think we were just swallowed by a huge fish!” he replied. More and more of us were swallowed until it got quite crowded inside. We obviously weren’t that nutritious because the fish died after a few days.",
+            "english_with_html": "I floated helplessly in the water <span style=\"color: #0070C0\"><b id=\"ip_4\">for a while</b></span>, but soon realized I wasn’t alone. I was <b id=\"wp_4\">surrounded</b><span style=\"color: #0070C0\"> </span> by plastic cups, plates, and straws. After days of <b>drifting</b><span style=\"color: #0070C0\"> </span>, I started to <b id=\"wp_6\">envy</b><span style=\"color: #0070C0\"> </span> the birds up above, who were flying so high and free. I could only follow the <b id=\"wr_2\">currents</b>. Suddenly, I went down a <b id=\"wr_3\">tunnel</b> into a<b id=\"wr_4\"> chamber</b>. “What happened?” I asked a fork next to me. “I think we were just <b id=\"wr_5\">swallowed</b> by a huge fish!” he replied. More and more of us were swallowed until it got quite <b id=\"wp_7\">crowded</b><span style=\"color: #0070C0\"> </span> inside. We <b id=\"wp_8\">obviously</b><span style=\"color: #0070C0\"> </span> weren’t that <b id=\"wr_6\">nutritious</b> because the fish died after a few days.",
+            "chinese": "我無助地在水中漂流了一陣子，但是不久我便了解到我並不孤單。我被塑膠杯、盤和吸管所圍繞。在漂流幾天之後，我開始羨慕上方的鳥兒，牠們無拘無束地展翅高飛，而我只能隨波逐流。突然間，我通過一個隧道進入一間密室。「發生了什麼事？」我問我身旁的叉子。他回答：「我想我們剛被一隻大魚吞下肚了！」愈來愈多像我們一樣的東西被吞入，直到這裡面變得相當擁擠。顯然我們並不是那麼營養，因為這隻魚過幾天就死了。",
+            "summary": "Summary generation failed",
+            "summary_chinese": "摘要生成失敗"
+        },
+        {
+            "paragraph_index": 3,
+            "english": "The fish’s body slowly decomposed, and then I was back in the ocean. One day, a big wave came and threw me up onto the shore. A few days later, some schoolchildren walked up to me. They were carrying bags and pairs of tongs. I felt a sudden pinch, and the next thing I knew, I was inside a big bag of trash. A teacher told the schoolchildren, “Because of all the littering, a lot of plastic products end up in the ocean. They are then consumed by different sea creatures. You might think that’s okay, but when we eat seafood, the poisonous substances from the plastic end up inside us and make us feel sick.”",
+            "english_with_html": "The fish’s body slowly <b id=\"wr_7\">decomposed</b>, and then I was back in the ocean. One day, a big wave came and threw me up onto the shore. A few days later, some schoolchildren walked up to me . They were carrying bags and pairs of <b id=\"wr_8\">tongs</b>. I felt a sudden <b id=\"wr_9\">pinch</b>, and the next thing I knew, I was inside a big bag of trash. A teacher told the schoolchildren, “Because of all the <b id=\"wr_10\">littering</b> , a lot of plastic <b id=\"wp_9\">products</b><span style=\"color: #0070C0\"> <b id=\"ip_5\">end up</b></span> in the ocean . They are then <b id=\"wp_10\">consumed</b><span style=\"color: #0070C0\"> </span> by different sea creatures. You might think that’s okay, but when we eat seafood, the <b>poisonous</b><span style=\"color: #0070C0\"> </span><b id=\"wp_12\">substances</b><span style=\"color: #0070C0\"> </span> from the plastic end up inside us and make us feel sick.”",
+            "chinese": "這隻魚的屍體慢慢地分解，後來我就又回到了海裡。有一天，一個大浪打過來並把我拋上岸邊。幾天之後，幾個學童帶著袋子跟夾子朝我走來。我覺得被突然捏了一下，緊接著就是我處在一大袋垃圾之中。一位老師跟這些學童說：「因為大家亂丟垃圾，很多塑膠製品最後流落到海洋裡，它們接著被不同的海洋生物吃掉。你們也許認為那沒關係，但當我們吃海鮮時，那些從塑膠而來的有毒物質最後會進到我們體內，讓我們感到不舒服。」",
+            "summary": "Summary generation failed",
+            "summary_chinese": "摘要生成失敗"
+        },
+        {
+            "paragraph_index": 4,
+            "english": "According to a plastic bottle nearby, the humans are going to take us to a recycling plant. I really don’t understand them. They produce us to make their lives better, but then they misuse us and make everyone’s life worse! I’m tired of floating around, killing fish, and causing harm to the environment. I really hope that my future owner will use me properly in my next life.",
+            "english_with_html": "According to a plastic bottle nearby, the humans are going to take us to a <b id=\"wr_11\">recycling</b><span style=\"color: #0070C0\"> </span><b id=\"wr_11\">plant</b>. I really don’t understand them. They produce us to make their lives better, but then they <b id=\"wr_12\">misuse</b> us and make everyone’s life worse! I’m tired of floating around, killing fish, and causing <b id=\"wp_14\">harm</b><span style=\"color: #0070C0\"> </span> to the <b id=\"wp_15\">environment</b><span style=\"color: #0070C0\"> </span>. I really hope that my future owner will use me <b id=\"wp_16\">properly</b><span style=\"color: #0070C0\"> </span> in my next life.",
+            "chinese": "根據附近一個塑膠瓶的說法，這些人類將會把我們帶到一間回收場。我真的不了解他們。他們製造我們來讓他們的生活變得更好，但是他們卻接著濫用我們，把每個人的生活弄得更糟！我對到處漂流、殺死魚類和破壞環境感到厭倦。我真的希望下輩子我未來的主人會適當地使用我。",
+            "summary": "Summary generation failed",
+            "summary_chinese": "摘要生成失敗"
+        }
+    ]
+}

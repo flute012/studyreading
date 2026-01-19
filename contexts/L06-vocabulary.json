@@ -1,0 +1,796 @@
+[
+  {
+    "section": "Words for Production",
+    "word_forms": [
+      {
+        "root_word": "freedom",
+        "word": "freedom",
+        "phonetics": "[`fridəm]",
+        "syllable": "free·dom",
+        "pos": "n. [U]",
+        "definition_zh": "自由",
+        "definition_en": "the right to do or say what one wants",
+        "examples": [
+          {
+            "example": "After Simon turned eighteen, his parents gave him the <b>freedom</b> to watch any movies he wanted to.",
+            "translate": "Simon滿十八歲之後，他的父母讓他自由看任何他想看的電影。"
+          }
+        ],
+        "number": "wp_1"
+      },
+      {
+        "root_word": "statue",
+        "word": "statue",
+        "phonetics": "[`stætʃʊ]",
+        "syllable": "stat·ue",
+        "pos": "n. [C]",
+        "definition_zh": "雕像",
+        "definition_en": "a figure of a person, animal, god, goddess, etc. that is usually made of metal or stone",
+        "examples": [
+          {
+            "example": "The island of Hainan in China has a 108-meter <b>statue</b> of the goddess Kuanyin.",
+            "translate": "中國的海南島有一座 108 公尺的觀音雕像。"
+          }
+        ],
+        "number": "wp_2"
+      },
+      {
+        "root_word": "remove",
+        "word": "remove",
+        "phonetics": "[rɪ`muv]",
+        "syllable": "re·move",
+        "pos": "vt.",
+        "verb_pattern": "remove-removed-removed",
+        "definition_zh": "移除",
+        "definition_en": "to take a thing away from somewhere",
+        "examples": [
+          {
+            "example": "Jasmine chewed gum to <b>remove</b> the smell of garlic from her breath.",
+            "translate": "Jasmine 嚼口香糖來去除她口氣中的蒜味。"
+          }
+        ],
+        "number": "wp_3"
+      },
+      {
+        "root_word": "celebration",
+        "word": "celebration",
+        "phonetics": "[ˏsɛlə`breʃən]",
+        "syllable": "cel·e·bra·tion",
+        "pos": "n. [U]",
+        "definition_zh": "慶祝",
+        "definition_en": "the act of doing activities for a special day or event",
+        "examples": [
+          {
+            "example": "Yvonne invited her friends out for dinner in <b>celebration</b> of finishing all of their exams.",
+            "translate": "Yvonne邀請她的朋友外出吃晚餐，慶祝他們完成所有的考試。"
+          }
+        ],
+        "number": "wp_4"
+      },
+      {
+        "root_word": "celebration",
+        "word": "celebration",
+        "phonetics": "[ˏsɛlə`breʃən]",
+        "syllable": "cel·e·bra·tion",
+        "pos": "n. [C]",
+        "definition_zh": "慶祝活動",
+        "definition_en": "an event or activity held to celebrate something",
+        "examples": [
+          {
+            "example": "Every October 10 our country holds a national <b>celebration</b> to remember an important event in our country’s history.",
+            "translate": "每年十月十日，我國都會舉辦國慶活動來紀念我國歷史上一個重要的事件。"
+          }
+        ],
+        "number": "wp_4_1"
+      },
+      {
+        "root_word": "celebrate",
+        "word": "celebrate",
+        "phonetics": "[`sɛləˏbret]",
+        "syllable": "cel·e·brate",
+        "pos": "vi., vt.",
+        "verb_pattern": "celebrate-celebrated-celebrated",
+        "definition_zh": "慶祝",
+        "definition_en": "to participate in a celebration or to honor a special occasion",
+        "examples": [
+          {
+            "example": "The whole country <b>celebrated</b> when their team won the FIFA World Cup for the first time.",
+            "translate": "全國慶祝國家隊第一次贏得世界盃足球賽冠軍。"
+          },
+          {
+            "example": "The couple gave sticky rice and red eggs to their friends and family members to <b>celebrate</b> their son’s one-month birthday.",
+            "translate": "這對夫妻送他們的親朋好友油飯和紅蛋來慶祝他們的兒子滿月。"
+          }
+        ],
+        "number": "wp_4_2"
+      },
+      {
+        "root_word": "independence",
+        "word": "independence",
+        "phonetics": "[ˏɪndɪ`pɛndəns]",
+        "syllable": "in·de·pen·dence",
+        "pos": "n. [U]",
+        "definition_zh": "獨立",
+        "definition_en": "freedom from being controlled by a person, a country, etc.",
+        "examples": [
+          {
+            "example": "India achieved <b>independence</b> from the United Kingdom on August 15, 1947.",
+            "translate": "印度在 1947 年 8 月 15 日脫離英國完成獨立。"
+          }
+        ],
+        "number": "wp_5"
+      },
+      {
+        "root_word": "independence",
+        "word": "independent",
+        "phonetics": "[ˏɪndɪ`pɛndənt]",
+        "syllable": "in·de·pen·dent",
+        "pos": "adj.",
+        "definition_zh": "獨立的",
+        "definition_en": "free from control or influence of others",
+        "examples": [
+          {
+            "example": "The Philippines has been <b>independent</b> from Spain for over 100 years, but about 3 million people there still speak Spanish.",
+            "translate": "菲律賓已經脫離西班牙獨立超過一百年了，但那裡大約有三百萬人仍然說西班牙語。"
+          }
+        ],
+        "number": "wp_5_1"
+      },
+      {
+        "root_word": "monument",
+        "word": "monument",
+        "phonetics": "[`mɑnjəmənt]",
+        "syllable": "mon·u·ment",
+        "pos": "n. [C]",
+        "definition_zh": "紀念碑",
+        "definition_en": "a building, statue, or other large object built to remind us of an important person or event",
+        "examples": [
+          {
+            "example": "The Taiwan Salt Museum and Qigu Salt Mountain in Tainan are <b>monuments</b> to Taiwan’s salt producing past.",
+            "translate": "在臺南的臺灣鹽博物館及七股鹽山是臺灣過去產鹽的見證。"
+          }
+        ],
+        "number": "wp_6"
+      },
+      {
+        "root_word": "symbolize",
+        "word": "symbolize",
+        "phonetics": "[`sɪmbḷˏaɪz]",
+        "syllable": "sym·bol·ize",
+        "pos": "vt.",
+        "verb_pattern": "symbolize-symbolized-symbolized",
+        "definition_zh": "象徵；代表",
+        "definition_en": "to stand for something",
+        "examples": [
+          {
+            "example": "In Beauty and the Beast, the dying rose <b>symbolizes</b> the Beast’s chance of becoming human again.",
+            "translate": "在《美女與野獸》當中，逐漸凋謝的玫瑰象徵野獸再次變成人類的機會。"
+          }
+        ],
+        "number": "wp_7"
+      },
+      {
+        "root_word": "symbolize",
+        "word": "symbol",
+        "phonetics": "[`sɪmbḷ]",
+        "syllable": "sym·bol",
+        "pos": "n. [C]",
+        "definition_zh": "象徵",
+        "definition_en": "something that represents an idea, concept, or quality",
+        "examples": [
+          {
+            "example": "In many cultures, the dove is regarded as a <b>symbol</b> of peace.",
+            "translate": "在許多文化中，鴿子被認為是和平的象徵。"
+          }
+        ],
+        "number": "wp_7_1"
+      },
+      {
+        "root_word": "symbolize",
+        "word": "symbolic",
+        "phonetics": "[sɪm`bɑlɪk]",
+        "syllable": "sym·bol·ic",
+        "pos": "adj.",
+        "definition_zh": "作為象徵的；象徵性的",
+        "definition_en": "serving as a symbol",
+        "examples": [
+          {
+            "example": "The fifty stars on the American flag are <b>symbolic</b> of the country’s fifty states.",
+            "translate": "在美國國旗上的五十顆星星象徵這個國家的五十個州。"
+          }
+        ],
+        "number": "wp_7_2"
+      },
+      {
+        "root_word": "firmly",
+        "word": "firmly",
+        "phonetics": "[`fɝmlɪ]",
+        "syllable": "firm·ly",
+        "pos": "adv.",
+        "definition_zh": "牢固地；堅定地",
+        "definition_en": "in a strong way that will prevent something from becoming loose; with a strong will",
+        "examples": [
+          {
+            "example": "Jack <b>firmly</b> closed the lid of the jar so that it wouldn’t open accidentally.",
+            "translate": "Jack牢牢關緊罐子的蓋子，以讓它不會意外打開。"
+          }
+        ],
+        "number": "wp_8"
+      },
+      {
+        "root_word": "firmly",
+        "word": "firm",
+        "phonetics": "[fɝm]",
+        "syllable": "firm",
+        "pos": "adj.",
+        "definition_zh": "堅硬的；結實的",
+        "definition_en": "solid or strong in texture or structure",
+        "examples": [
+          {
+            "example": "The apples in the basket were all fresh, <b>firm</b>, and perfect for making pie.",
+            "translate": "這個籃子裡的蘋果都很新鮮、結實，而且適合做派。"
+          }
+        ],
+        "number": "wp_8_1"
+      },
+      {
+        "root_word": "represent",
+        "word": "represent",
+        "phonetics": "[ˏrɛprɪ`zɛnt]",
+        "syllable": "re·pre·sent",
+        "pos": "vt.",
+        "verb_pattern": "represent-represented-represented",
+        "definition_zh": "作為…的象徵；代表",
+        "definition_en": "to be a symbol of something",
+        "examples": [
+          {
+            "example": "Sometimes Chinese speakers type “3Q” to <b>represent</b> the words “thank you” because “3Q” sounds like “thank you” in Chinese.",
+            "translate": "有時候說華語的人會打出「3Q」來代表「謝謝你」這些字，因為「3Q」的華語聽起來像「thank you」。"
+          }
+        ],
+        "number": "wp_9"
+      },
+      {
+        "root_word": "represent",
+        "word": "represent",
+        "phonetics": "[ˏrɛprɪ`zɛnt]",
+        "syllable": "re·pre·sent",
+        "pos": "vt.",
+        "verb_pattern": "represent-represented-represented",
+        "definition_zh": "代表",
+        "definition_en": "to act or speak on behalf of someone or something",
+        "examples": [
+          {
+            "example": "Roberto was chosen to <b>represent</b> his class in the school performance because he is a good actor.",
+            "translate": "Roberto獲選代表他們班參加學校的表演，因為他是一個好演員。"
+          }
+        ],
+        "number": "wp_9_1"
+      },
+      {
+        "root_word": "represent",
+        "word": "representation",
+        "phonetics": "[ˏrɛprɪzɛn`teʃən]",
+        "syllable": "re·pre·sen·ta·tion",
+        "pos": "n. [U, C]",
+        "definition_zh": "表現（形式）；塑像",
+        "definition_en": "the way something is shown or presented",
+        "examples": [
+          {
+            "example": "Wendy didn’t like the <b>representation</b> of women in the movie; all of them were shown as being quiet and weak.",
+            "translate": "Wendy不喜歡這部電影中女性的表現方式；她們全部都被呈現為安靜柔弱的樣子。"
+          },
+          {
+            "example": "The team created a small plastic <b>representation</b> of the tower they were planning to build.",
+            "translate": "這個團隊為他們正計劃建造的塔樓製作了一個小塑膠模型。"
+          }
+        ],
+        "number": "wp_9_2"
+      },
+      {
+        "root_word": "ancient",
+        "word": "ancient",
+        "phonetics": "[`enʃənt]",
+        "syllable": "an·cient",
+        "pos": "adj.",
+        "definition_zh": "古代的；古老的",
+        "definition_en": "from a period of time in the distant past",
+        "examples": [
+          {
+            "example": "The Great Wall was built thousands of years ago to stop <b>ancient</b> China’s enemies from invading.",
+            "translate": "長城在數千年前被建造來阻擋古代中國敵人的攻擊。"
+          }
+        ],
+        "number": "wp_10"
+      },
+      {
+        "root_word": "slavery",
+        "word": "slavery",
+        "phonetics": "[`slevərɪ]",
+        "syllable": "slav·ery",
+        "pos": "n. [U]",
+        "definition_zh": "蓄奴制；奴隸身分",
+        "definition_en": "the practice of owning and forcing people to work for no pay or the condition of being owned and forced to work for no pay",
+        "examples": [
+          {
+            "example": "This book is about a girl who was sold into <b>slavery</b> and made to work on a farm for years.",
+            "translate": "這本書是關於一個被賣為奴隸，並被迫在農場上工作多年的女孩。"
+          }
+        ],
+        "number": "wp_11"
+      },
+      {
+        "root_word": "slavery",
+        "word": "slave",
+        "phonetics": "[slev]",
+        "syllable": "slave",
+        "pos": "n. [C]",
+        "definition_zh": "奴隸",
+        "definition_en": "a person who is owned and forced to work for no pay",
+        "examples": [
+          {
+            "example": "When Abraham Lincoln ended <b>slavery</b> in the US, many of his friends still owned slaves.",
+            "translate": "當亞伯拉罕．林肯結束了美國的奴隸制度時，他的許多朋友仍然擁有奴隸。"
+          }
+        ],
+        "number": "wp_11_1"
+      },
+      {
+        "root_word": "unfair",
+        "word": "unfair",
+        "phonetics": "[ʌn`fɛr]",
+        "syllable": "un·fair",
+        "pos": "adj.",
+        "definition_zh": "不公正的；不公平的",
+        "definition_en": "not equal or fair",
+        "examples": [
+          {
+            "example": "Several players cheated during the game, so everybody agrees that the final score is <b>unfair</b>.",
+            "translate": "幾位球員在這場比賽中作弊，所以每個人都一致認為最後的分數是不公平的。"
+          }
+        ],
+        "number": "wp_12"
+      },
+      {
+        "root_word": "treatment",
+        "word": "treatment",
+        "phonetics": "[`tritmənt]",
+        "syllable": "treat·ment",
+        "pos": "n. [U]",
+        "definition_zh": "對待；待遇",
+        "definition_en": "the way a person behaves toward or deals with another person or thing",
+        "examples": [
+          {
+            "example": "The prison was closed after many reports revealed the poor <b>treatment</b> of prisoners there.",
+            "translate": "許多報告揭發了囚犯在那裡的惡劣待遇之後，這座監獄被關閉了。"
+          }
+        ],
+        "number": "wp_13"
+      },
+      {
+        "root_word": "tourist",
+        "word": "tourist",
+        "phonetics": "[`tʊrɪst]",
+        "syllable": "tour·ist",
+        "pos": "n. [C]",
+        "definition_zh": "遊客",
+        "definition_en": "a person who is traveling to or visiting a place for fun or to learn about it",
+        "examples": [
+          {
+            "example": "Mary and John went into the <b>tourist</b> center to ask for information about local hotels.",
+            "translate": "Mary和John到遊客中心去詢問關於當地飯店的資訊。"
+          }
+        ],
+        "number": "wp_14"
+      },
+      {
+        "root_word": "tourist",
+        "word": "tourism",
+        "phonetics": "[`tʊrɪzəm]",
+        "syllable": "tour·ism",
+        "pos": "n. [U]",
+        "definition_zh": "旅遊業；觀光業",
+        "definition_en": "the industry or activity of traveling for pleasure",
+        "examples": [
+          {
+            "example": "<b>Tourism</b> in the country grew sharply after it was chosen as this year’s best place to visit by a popular magazine.",
+            "translate": "這個國家被一本受歡迎的雜誌選為今年最佳旅遊地點後，旅遊業急速成長。"
+          }
+        ],
+        "number": "wp_14_1"
+      },
+      {
+        "root_word": "attraction",
+        "word": "attraction",
+        "phonetics": "[ə`trækʃən]",
+        "syllable": "at·trac·tion",
+        "pos": "n. [C]",
+        "definition_zh": "有吸引力的事物或地點",
+        "definition_en": "a place that people want to see or an activity that people want to do",
+        "examples": [
+          {
+            "example": "Beaches and water sports are the main <b>attractions</b> in Kenting.",
+            "translate": "海灘和水上運動是墾丁最主要的賣點。"
+          }
+        ],
+        "number": "wp_15"
+      },
+      {
+        "root_word": "attraction",
+        "word": "attract",
+        "phonetics": "[ə`trækt]",
+        "syllable": "at·tract",
+        "pos": "vt.",
+        "verb_pattern": "attract-attracted-attracted",
+        "definition_zh": "招引；吸引",
+        "definition_en": "to draw someone or something toward something",
+        "examples": [
+          {
+            "example": "Famous sights such as the Eiffel Tower and Louvre Museum <b>attract</b> over 30 million tourists to Paris every year.",
+            "translate": "像艾菲爾鐵塔和羅浮宮博物館這類有名的景點，每年吸引了超過三千萬遊客到巴黎。"
+          }
+        ],
+        "number": "wp_15_1"
+      },
+      {
+        "root_word": "attraction",
+        "word": "attractive",
+        "phonetics": "[ə`træktɪv]",
+        "syllable": "at·trac·tive",
+        "pos": "adj.",
+        "definition_zh": "吸引人的",
+        "definition_en": "pleasing or appealing to someone",
+        "examples": [
+          {
+            "example": "Modern buildings are not <b>attractive</b> to Britney because she thinks they are seldom unique.",
+            "translate": "Britney並不受現代建築吸引，因為她認為它們都不太獨特。"
+          }
+        ],
+        "number": "wp_15_2"
+      },
+      {
+        "root_word": "landmark",
+        "word": "landmark",
+        "phonetics": "[`lændˏmɑrk]",
+        "syllable": "land·mark",
+        "pos": "n. [C]",
+        "definition_zh": "地標",
+        "definition_en": "a large natural or man-made thing that makes it easy to know one’s location",
+        "examples": [
+          {
+            "example": "The Tokyo Tower and the Tokyo Skytree are two of Japan’s most famous <b>landmarks</b>.",
+            "translate": "東京鐵塔和東京晴空塔是日本最有名地標中的兩個。"
+          }
+        ],
+        "number": "wp_16"
+      },
+      {
+        "root_word": "globe",
+        "word": "globe",
+        "phonetics": "[glob]",
+        "syllable": "globe",
+        "pos": "n. sing.",
+        "definition_zh": "地球；世界",
+        "definition_en": "the world (used especially to emphasize its large size and round shape)",
+        "examples": [
+          {
+            "example": "Many of David Bowie’s fans around the <b>globe</b> posted images or words on Facebook and Instagram in memory of him after he died on January 10, 2016.",
+            "translate": "大衛鮑伊在 2016 年 1 月 10 日去世後，全世界許多他的粉絲在臉書和Instagram上傳圖文紀念他。"
+          }
+        ],
+        "number": "wp_17"
+      },
+      {
+        "root_word": "globe",
+        "word": "global",
+        "phonetics": "[`globḷ]",
+        "syllable": "glob·al",
+        "pos": "adj.",
+        "definition_zh": "全球的；全世界的",
+        "definition_en": "relating to the whole world",
+        "examples": [
+          {
+            "example": "Many people believe that <b>global</b> warming is causing a higher number of large storms such as typhoons.",
+            "translate": "許多人相信全球暖化正造成更多像颱風這樣的大型風暴。"
+          }
+        ],
+        "number": "wp_17_1"
+      }
+    ]
+  },
+  {
+    "section": "Idioms and Phrases",
+    "word_forms": [
+      {
+        "root_word": "even though",
+        "word": "even though",
+        "definition_zh": "儘管",
+        "definition_en": "despite the action or statement that follows",
+        "examples": [
+          {
+            "example": "<b>Even though</b> he has only heard it a few times before, Kyle knows all the words to this song.",
+            "translate": "儘管以前只聽過這首歌幾次，Kyle知道所有的歌詞。"
+          }
+        ],
+        "number": "ip_1"
+      },
+      {
+        "root_word": "close to",
+        "word": "close to",
+        "definition_zh": "將近",
+        "definition_en": "nearly; almost",
+        "examples": [
+          {
+            "example": "During the performance, <b>close to</b> two thousand people sang along with the band and created an unforgettable memory together.",
+            "translate": "在表演期間，將近兩千人跟著樂團一同歌唱，一起創造了難忘的回憶。"
+          }
+        ],
+        "number": "ip_2"
+      },
+      {
+        "root_word": "over time",
+        "word": "over time",
+        "definition_zh": "隨著時間過去",
+        "definition_en": "as time passed or is passing",
+        "examples": [
+          {
+            "example": "Janice found the math class really tough at first, but it became easier <b>over time</b>.",
+            "translate": "Janice一開始認為數學課很難，但隨著時間過去，它變得較簡單。"
+          }
+        ],
+        "number": "ip_3"
+      },
+      {
+        "root_word": "pay a visit to",
+        "word": "pay a visit to",
+        "definition_zh": "拜訪；參觀",
+        "definition_en": "to visit some place or someone",
+        "examples": [
+          {
+            "example": "Tracy decided to <b>pay a visit to</b> Big Ben while she was on a business trip in London.",
+            "translate": "Tracy決定去倫敦出差時參觀大笨鐘。"
+          }
+        ],
+        "number": "ip_4"
+      },
+      {
+        "root_word": "as always",
+        "word": "as always",
+        "definition_zh": "一直如此",
+        "definition_en": "just like the way something always happens",
+        "examples": [
+          {
+            "example": "The noodle shop has a long line of people outside <b>as always</b> because they make the best noodles in town.",
+            "translate": "一直以來，這家麵店外面都有著長長的人龍，因為他們做的麵是鎮上最棒的。"
+          }
+        ],
+        "number": "ip_5"
+      }
+    ]
+  },
+  {
+    "section": "Words for Recognition",
+    "word_forms": [
+      {
+        "root_word": "the Statue of Liberty",
+        "word": "the Statue of Liberty",
+        "phonetics": "[ðə `stætʃʊəv `lɪbɚtɪ]",
+        "syllable": "the Stat·ue of Lib·er·ty",
+        "pos": "n.",
+        "definition_zh": "自由女神像（又稱Lady Liberty）",
+        "examples": [],
+        "number": "wr_1"
+      },
+      {
+        "root_word": "New York City",
+        "word": "New York City",
+        "phonetics": "[`nju ˏjɔrk `sɪtɪ]",
+        "syllable": "New York Ci·ty",
+        "pos": "n.",
+        "definition_zh": "紐約市（位於美國紐約州）",
+        "examples": [],
+        "number": "wr_2"
+      },
+      {
+        "root_word": "Bedloe’s Island",
+        "word": "Bedloe’s Island",
+        "phonetics": "[`bɛdloz `aɪlənd]",
+        "syllable": "Bed·loe’s Is·land",
+        "pos": "n.",
+        "definition_zh": "貝德羅島（為Liberty Island的舊稱，於1956年正式改為此名）",
+        "examples": [],
+        "number": "wr_3"
+      },
+      {
+        "root_word": "Liberty Island",
+        "word": "Liberty Island",
+        "phonetics": "[`lɪbɚtɪ `aɪlənd]",
+        "syllable": "Lib·er·ty Is·land",
+        "pos": "n.",
+        "definition_zh": "自由島（位於美國紐約灣的小島，為自由女神像所在地）",
+        "examples": [],
+        "number": "wr_4"
+      },
+      {
+        "root_word": "sculptor",
+        "word": "sculptor",
+        "phonetics": "[`skʌlptɚ]",
+        "syllable": "sculp·tor",
+        "pos": "n. [C]",
+        "definition_zh": "雕刻家",
+        "examples": [],
+        "number": "wr_5"
+      },
+      {
+        "root_word": "Frédéric Auguste Bartholdi",
+        "word": "Frédéric Auguste Bartholdi",
+        "phonetics": "[ˏfrede`hik oʊ`gist bɑr`tɔldi]",
+        "syllable": "Fré·dé·ric Au·gus·te Bar·thol·di",
+        "pos": "n.",
+        "definition_zh": "弗里德利．奧古斯特．巴特勒迪（1834–1904，法國雕塑家，自由女神像的創作者）",
+        "examples": [],
+        "number": "wr_6"
+      },
+      {
+        "root_word": "Great Britain",
+        "word": "Great Britain",
+        "phonetics": "[`gret `brɪtṇ]",
+        "syllable": "Great Bri·tain",
+        "pos": "n.",
+        "definition_zh": "大不列顛（包括英格蘭、蘇格蘭和威爾士）",
+        "examples": [],
+        "number": "wr_7"
+      },
+      {
+        "root_word": "copper",
+        "word": "copper",
+        "phonetics": "[`kɑpɚ]",
+        "syllable": "cop·per",
+        "pos": "n. [U]",
+        "definition_zh": "銅",
+        "examples": [],
+        "number": "wr_8"
+      },
+      {
+        "root_word": "reddish-brown",
+        "word": "reddish-brown",
+        "phonetics": "[`rɛdɪʃ `braʊn]",
+        "syllable": "red·dish-brown",
+        "pos": "adj.",
+        "definition_zh": "紅棕色的",
+        "examples": [],
+        "number": "wr_9"
+      },
+      {
+        "root_word": "layer",
+        "word": "layer",
+        "phonetics": "[`leɚ]",
+        "syllable": "lay·er",
+        "pos": "n. [C]",
+        "definition_zh": "層；表層",
+        "examples": [],
+        "number": "wr_10"
+      },
+      {
+        "root_word": "oxidize",
+        "word": "oxidize",
+        "phonetics": "[`ɑksəˏdaɪz]",
+        "syllable": "ox·i·dize",
+        "pos": "vi.",
+        "definition_zh": "氧化",
+        "examples": [],
+        "number": "wr_11"
+      },
+      {
+        "root_word": "tablet",
+        "word": "tablet",
+        "phonetics": "[`tæblɪt]",
+        "syllable": "tab·let",
+        "pos": "n. [C]",
+        "definition_zh": "（刻有文字的）牌；碑",
+        "examples": [],
+        "number": "wr_12"
+      },
+      {
+        "root_word": "torch",
+        "word": "torch",
+        "phonetics": "[tɔrtʃ]",
+        "syllable": "torch",
+        "pos": "n. [C]",
+        "definition_zh": "火炬；火把",
+        "examples": [],
+        "number": "wr_13"
+      },
+      {
+        "root_word": "crown",
+        "word": "crown",
+        "phonetics": "[kraʊn]",
+        "syllable": "crown",
+        "pos": "n. [C]",
+        "definition_zh": "王冠；皇冠",
+        "examples": [],
+        "number": "wr_14"
+      },
+      {
+        "root_word": "chain",
+        "word": "chain",
+        "phonetics": "[tʃen]",
+        "syllable": "chain",
+        "pos": "n. [C]",
+        "definition_zh": "鎖鏈；鏈子",
+        "examples": [],
+        "number": "wr_15"
+      },
+      {
+        "root_word": "spike",
+        "word": "spike",
+        "phonetics": "[spaɪk]",
+        "syllable": "spike",
+        "pos": "n. [C]",
+        "definition_zh": "尖刺；尖狀物",
+        "examples": [],
+        "number": "wr_16"
+      },
+      {
+        "root_word": "divine",
+        "word": "divine",
+        "phonetics": "[də`vaɪn]",
+        "syllable": "di·vine",
+        "pos": "adj.",
+        "definition_zh": "神的；如神一樣的",
+        "examples": [],
+        "number": "wr_17"
+      },
+      {
+        "root_word": "heavenly",
+        "word": "heavenly",
+        "phonetics": "[`hɛvənlɪ]",
+        "syllable": "heav·en·ly",
+        "pos": "adj.",
+        "definition_zh": "神聖的；天堂的",
+        "examples": [],
+        "number": "wr_18"
+      },
+      {
+        "root_word": "robe",
+        "word": "robe",
+        "phonetics": "[rob]",
+        "syllable": "robe",
+        "pos": "n. [C]",
+        "definition_zh": "長袍；禮袍",
+        "examples": [],
+        "number": "wr_19"
+      },
+      {
+        "root_word": "Roman",
+        "word": "Roman",
+        "phonetics": "[`romən]",
+        "syllable": "Ro·man",
+        "pos": "adj.",
+        "definition_zh": "羅馬的",
+        "examples": [],
+        "number": "wr_20"
+      },
+      {
+        "root_word": "Libertas",
+        "word": "Libertas",
+        "phonetics": "[`lɪbɚtəs]",
+        "syllable": "Lib·er·tas",
+        "pos": "n.",
+        "definition_zh": "利貝塔斯（古羅馬神話中的自主神）",
+        "examples": [],
+        "number": "wr_21"
+      },
+      {
+        "root_word": "goddess",
+        "word": "goddess",
+        "phonetics": "[`gɑdɪs]",
+        "syllable": "god·dess",
+        "pos": "n. [C]",
+        "definition_zh": "女神",
+        "examples": [],
+        "number": "wr_22"
+      }
+    ]
+  }
+]

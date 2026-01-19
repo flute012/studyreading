@@ -1,0 +1,662 @@
+[
+  {
+    "section": "Words for Production",
+    "word_forms": [
+      {
+        "root_word": "familiar",
+        "word": "familiar",
+        "phonetics": "[fə`mɪljɚ]",
+        "syllable": "fa·mil·iar",
+        "pos": "adj.",
+        "definition_zh": "熟悉的",
+        "definition_en": "well-known to someone, usually because that thing or person has often been seen or heard",
+        "examples": [
+          {
+            "example": "Japanese cartoon characters such as Doraemon, Pikachu, and Totoro are <b>familiar</b> to kids all over the world.",
+            "translate": "日本卡通人物，像是多啦A夢、皮卡丘和龍貓，全世界的小孩子都熟悉。"
+          }
+        ],
+        "number": "wp_1"
+      },
+      {
+        "root_word": "urge",
+        "word": "urge",
+        "phonetics": "[ɝdʒ]",
+        "syllable": "urge",
+        "pos": "n. [C]",
+        "definition_zh": "衝動",
+        "definition_en": "a strong desire to do something",
+        "examples": [
+          {
+            "example": "Jason had an <b>urge</b> to change his daily routine, so he went swimming after work instead of going straight home.",
+            "translate": "Jason有一股衝動想改變他的每天例行公事，所以他下班後去游泳，而沒有直接回家。"
+          }
+        ],
+        "number": "wp_2"
+      },
+      {
+        "root_word": "urge",
+        "word": "urge",
+        "phonetics": "[ɝdʒ]",
+        "syllable": "urge",
+        "pos": "vt.",
+        "verb_pattern": "urge-urged-urged",
+        "definition_zh": "催促",
+        "examples": [
+          {
+            "example": "Many people were <b>urging</b> the country’s leaders to do a better job of helping the homeless.",
+            "translate": "許多人催促著這個國家的領導者，在幫助無家可歸的人這方面做得更好。"
+          }
+        ],
+        "number": "wp_2_1"
+      },
+      {
+        "root_word": "strategy",
+        "word": "strategy",
+        "phonetics": "[`strætədʒɪ]",
+        "syllable": "stra·te·gy",
+        "pos": "n. [C]",
+        "definition_zh": "策略",
+        "definition_en": "a plan or method used to achieve a certain aim",
+        "examples": [
+          {
+            "example": "The salesman’s <b>strategy</b> for closing a deal is to describe the features that make his products better than other companies’.",
+            "translate": "這個業務達成買賣的策略是，描述比其他公司好的產品特色。"
+          }
+        ],
+        "number": "wp_3"
+      },
+      {
+        "root_word": "visible",
+        "word": "visible",
+        "phonetics": "[`vɪzəbḷ]",
+        "syllable": "vi·si·ble",
+        "pos": "adj.",
+        "definition_zh": "看得見的",
+        "definition_en": "able to be seen",
+        "examples": [
+          {
+            "example": "In the sky there are 9,096 stars that are <b>visible</b> to the naked eye.",
+            "translate": "天空中有 9,096 顆星星是肉眼可以看見的。"
+          }
+        ],
+        "number": "wp_4"
+      },
+      {
+        "root_word": "purchase",
+        "word": "purchase",
+        "phonetics": "[`pɝtʃəs]",
+        "syllable": "pur·chase",
+        "pos": "vt.",
+        "verb_pattern": "purchase-purchased-purchased",
+        "definition_zh": "購買",
+        "definition_en": "to buy",
+        "examples": [
+          {
+            "example": "Many people like to <b>purchase</b> goods inside international airports because they don’t need to pay taxes.",
+            "translate": "許多人喜歡在國際機場內購買商品，因為他們不需付稅金。"
+          }
+        ],
+        "number": "wp_5"
+      },
+      {
+        "root_word": "purchase",
+        "word": "purchase",
+        "phonetics": "[`pɝtʃəs]",
+        "syllable": "pur·chase",
+        "pos": "n. [C]",
+        "definition_zh": "購買",
+        "examples": [
+          {
+            "example": "It is the cafe’s policy that each customer must make a <b>purchase</b> of at least one food or drink item.",
+            "translate": "這家咖啡廳規定每位顧客至少要購買一樣食品或飲料。"
+          }
+        ],
+        "number": "wp_5_1"
+      },
+      {
+        "root_word": "profitable",
+        "word": "profitable",
+        "phonetics": "[`prɑfɪtəbḷ]",
+        "syllable": "prof·i·ta·ble",
+        "pos": "adj.",
+        "definition_zh": "有利潤的",
+        "definition_en": "(used for a product or business activity) able to make money",
+        "examples": [
+          {
+            "example": "The locals that live near this harbor have opened several highly <b>profitable</b> seafood restaurants.",
+            "translate": "住在這個港口附近的當地人已經開了幾家高利潤的海產餐廳。"
+          }
+        ],
+        "number": "wp_6"
+      },
+      {
+        "root_word": "profit",
+        "word": "profit",
+        "phonetics": "[`prɑfɪt]",
+        "syllable": "prof·it",
+        "pos": "vi.",
+        "verb_pattern": "profit-profited-profited",
+        "definition_zh": "獲得好處",
+        "examples": [
+          {
+            "example": "The students really <b>profited</b> from the teacher’s story because they had a good laugh and learned something new.",
+            "translate": "學生們真的從老師的故事中獲得好處，因為他們笑得很開心，而且學到了新東西。"
+          }
+        ],
+        "number": "wp_6_1"
+      },
+      {
+        "root_word": "profit",
+        "word": "profit",
+        "phonetics": "[`prɑfɪt]",
+        "syllable": "prof·it",
+        "pos": "n. [C]",
+        "definition_zh": "利潤",
+        "examples": [
+          {
+            "example": "The couple hope to make a <b>profit</b> by selling their house for much more than they paid for it last year.",
+            "translate": "這對夫妻希望能夠以高於去年買屋的房價來賣屋，以獲取利潤。"
+          }
+        ],
+        "number": "wp_7_1"
+      },
+      {
+        "root_word": "similarly",
+        "word": "similarly",
+        "phonetics": "[`sɪməlɚlɪ]",
+        "syllable": "si·mi·lar·ly",
+        "pos": "adv.",
+        "definition_zh": "同樣地；相似地",
+        "definition_en": "used to indicate that two or more facts, actions, statements, etc. are almost the same",
+        "examples": [
+          {
+            "example": "Many Arctic birds fly south when winter approaches. <b>Similarly</b>, monarch butterflies fly to warmer places during the cold season.",
+            "translate": "許多極地地區的鳥在冬天來臨時飛往南方。同樣地，帝王斑蝶會在寒冷的季節期間，飛到比較溫暖的地方。"
+          }
+        ],
+        "number": "wp_7"
+      },
+      {
+        "root_word": "similar",
+        "word": "similar",
+        "phonetics": "[`sɪməlɚ]",
+        "syllable": "si·mi·lar",
+        "pos": "adj.",
+        "definition_zh": "相似的",
+        "examples": [
+          {
+            "example": "These two kinds of fish are <b>similar</b> in appearance but taste quite different.",
+            "translate": "這兩種魚在外表看起來很相似，但吃起來相當不一樣。"
+          }
+        ],
+        "number": "wp_7_1"
+      },
+      {
+        "root_word": "similarity",
+        "word": "similarity",
+        "phonetics": "[ˏsɪmə`lærətɪ]",
+        "syllable": "si·mi·lar·i·ty",
+        "pos": "n. [U, C]",
+        "definition_zh": "相似性；相似處",
+        "examples": [
+          {
+            "example": "When Blake traveled to foreign countries, he noticed the <b>similarity</b> of all people rather than what made them different.",
+            "translate": "當Blake到外國旅行時，他注意到所有人的相似處，而非什麼使他們相異。"
+          },
+          {
+            "example": "One of the <b>similarities</b> between Austria and Germany is that the official language of both countries is German.",
+            "translate": "奧地利和德國之間的相似處之一，就是這兩個國家的官方語言都是德語。"
+          }
+        ],
+        "number": "wp_7_2"
+      },
+      {
+        "root_word": "aim",
+        "word": "aim",
+        "phonetics": "[em]",
+        "syllable": "aim",
+        "pos": "vt.",
+        "verb_pattern": "aim-aimed-aimed",
+        "definition_zh": "針對；對象是",
+        "definition_en": "to direct something, such as information, a product, or some action, at a certain person or group of people",
+        "examples": [
+          {
+            "example": "This picture book is <b>aimed</b> primarily at children under the age of five.",
+            "translate": "這本繪本主要針對五歲以下的兒童。"
+          }
+        ],
+        "number": "wp_8"
+      },
+      {
+        "root_word": "aim",
+        "word": "aim",
+        "phonetics": "[em]",
+        "syllable": "aim",
+        "pos": "n. [C]",
+        "definition_zh": "目的；目標",
+        "examples": [
+          {
+            "example": "The actress likes to watch videos of her performances with the <b>aim</b> of improving her acting skills.",
+            "translate": "這位女演員喜歡觀看她自己演出的影片，目的是改進她的演技。"
+          }
+        ],
+        "number": "wp_8_1"
+      },
+      {
+        "root_word": "impulse",
+        "word": "impulse",
+        "phonetics": "[`ɪmpʌls]",
+        "syllable": "im·pulse",
+        "pos": "n. [U, C]",
+        "definition_zh": "衝動",
+        "definition_en": "a sudden urge to do something, usually without thinking about the possible results",
+        "examples": [
+          {
+            "example": "Kate bought an expensive pair of shoes on <b>impulse</b> but later realized she didn’t need them.",
+            "translate": "Kate在衝動之下買了一雙很貴的鞋，但後來了解到她並不需要它們。"
+          },
+          {
+            "example": "The boy had an <b>impulse</b> to start laughing in the middle of the teacher’s lesson, but he managed to control it.",
+            "translate": "這男孩有一股衝動想在老師的課堂中發笑，但他總算控制住沒笑。"
+          }
+        ],
+        "number": "wp_9"
+      },
+      {
+        "root_word": "display",
+        "word": "display",
+        "phonetics": "[dɪ`sple]",
+        "syllable": "dis·play",
+        "pos": "vt.",
+        "verb_pattern": "display-displayed-displayed",
+        "definition_zh": "展示；陳列",
+        "definition_en": "to put something somewhere so people can easily see it",
+        "examples": [
+          {
+            "example": "The scooter shop <b>displays</b> some of its most popular models on the front sidewalk to attract potential buyers.",
+            "translate": "這間機車行在店前的人行道上展示一些最受歡迎的機車車種，以吸引可能的買家。"
+          }
+        ],
+        "number": "wp_10"
+      },
+      {
+        "root_word": "display",
+        "word": "display",
+        "phonetics": "[dɪ`sple]",
+        "syllable": "dis·play",
+        "pos": "n. [U, C]",
+        "definition_zh": "展覽；陳列",
+        "examples": [
+          {
+            "example": "Some of Picasso’s less famous works will be on <b>display</b> at the Museum of Modern Art this spring.",
+            "translate": "今年春天，畢卡索有一些較不知名的作品將會在現代藝術博物館展出。"
+          },
+          {
+            "example": "A trade fair allows a company to present a public <b>display</b> of the products it hopes to sell.",
+            "translate": "一個貿易展讓一家公司能夠公開展出其所希望販賣的產品。"
+          }
+        ],
+        "number": "wp_10_1"
+      },
+      {
+        "root_word": "offer",
+        "word": "offer",
+        "phonetics": "[`ɔfɚ]",
+        "syllable": "of·fer",
+        "pos": "n. [C]",
+        "definition_zh": "特價",
+        "definition_en": "a discounted price for something, usually for a short period of time",
+        "examples": [
+          {
+            "example": "The buy-two-get-one-free <b>offer</b> on all baked items at this bakery will only last until October 31.",
+            "translate": "在這間麵包店裡，所有烘焙產品買二送一的特價，將只持續到十月三十一日。"
+          }
+        ],
+        "number": "wp_11"
+      },
+      {
+        "root_word": "offer",
+        "word": "offer",
+        "phonetics": "[`ɔfɚ]",
+        "syllable": "of·fer",
+        "pos": "vt.",
+        "verb_pattern": "offer-offered-offered",
+        "definition_zh": "提供",
+        "examples": [
+          {
+            "example": "The coach <b>offered</b> the best words of encouragement he could think of to each member of the team.",
+            "translate": "這位教練提供了他所能想得到最佳的鼓勵話語給隊上的每位成員。"
+          }
+        ],
+        "number": "wp_11_1"
+      },
+      {
+        "root_word": "customer",
+        "word": "customer",
+        "phonetics": "[`kʌstəmɚ]",
+        "syllable": "cus·to·mer",
+        "pos": "n. [C]",
+        "definition_zh": "顧客；客戶",
+        "definition_en": "a person or company that buys goods or services from a shop or business",
+        "examples": [
+          {
+            "example": "Mrs. Stewart is used to dealing with angry people because she handles all the <b>customer</b> complaints for a large store.",
+            "translate": "Stewart太太習慣應付生氣的人，因為她為一間大商店處理所有的客訴。"
+          }
+        ],
+        "number": "wp_12"
+      },
+      {
+        "root_word": "advantage",
+        "word": "advantage",
+        "phonetics": "[əd`væntɪdʒ]",
+        "syllable": "ad·van·tage",
+        "pos": "n. [U, C]",
+        "definition_zh": "優勢；有利條件",
+        "definition_en": "something that helps one be better or more successful than others",
+        "examples": [
+          {
+            "example": "It would be to the company’s <b>advantage</b> to promote their new product because the public is not familiar with it.",
+            "translate": "宣傳他們的新產品會對這家公司有利，因為大眾對它還不熟悉。"
+          },
+          {
+            "example": "Jason’s height gave him an <b>advantage</b> in the high jump competition.",
+            "translate": "Jason的身高讓他在跳高比賽上有優勢。"
+          }
+        ],
+        "number": "wp_13"
+      },
+      {
+        "root_word": "eventually",
+        "word": "eventually",
+        "phonetics": "[ɪ`vɛntʃʊəlɪ]",
+        "syllable": "e·ven·tu·al·ly",
+        "pos": "adv.",
+        "definition_zh": "最後",
+        "definition_en": "in the end, usually after a long period of time or many difficulties",
+        "examples": [
+          {
+            "example": "Raymond failed the GEPT the first time, but he tried again and <b>eventually</b> got an excellent score.",
+            "translate": "Raymond第一次全民英檢沒考過，但他再次嘗試，最後得到很棒的成績。"
+          }
+        ],
+        "number": "wp_14"
+      },
+      {
+        "root_word": "eventual",
+        "word": "eventual",
+        "phonetics": "[ɪ`vɛntʃʊəl]",
+        "syllable": "e·ven·tu·al",
+        "pos": "adj.",
+        "definition_zh": "最後的",
+        "examples": [
+          {
+            "example": "Good training and a positive attitude led to Nicole’s <b>eventual</b> success as a designer.",
+            "translate": "良好的訓練和正向的態度讓Nicole最後成功成為設計師。"
+          }
+        ],
+        "number": "wp_14_1"
+      },
+      {
+        "root_word": "trap",
+        "word": "trap",
+        "phonetics": "[træp]",
+        "syllable": "trap",
+        "pos": "n. [C]",
+        "definition_zh": "圈套",
+        "definition_en": "a plan to trick people, either by catching them or by making them do something they don’t want to",
+        "examples": [
+          {
+            "example": "When the boy acted like he was crying, the mother fell into his <b>trap</b> and bought the cookies for him.",
+            "translate": "當這個男孩裝哭時，他媽媽掉進他的圈套而買了餅乾給他。"
+          }
+        ],
+        "number": "wp_15"
+      },
+      {
+        "root_word": "trap",
+        "word": "trap",
+        "phonetics": "[træp]",
+        "syllable": "trap",
+        "pos": "vt.",
+        "verb_pattern": "trap-trapped-trapped",
+        "definition_zh": "困住",
+        "examples": [
+          {
+            "example": "A tree that fell in front of the main door <b>trapped</b> the people inside the burning building until help arrived.",
+            "translate": "一棵倒在大門前的樹困住了燃燒的大樓裡的人們，直到救援來到為止。"
+          }
+        ],
+        "number": "wp_15_1"
+      },
+      {
+        "root_word": "aware",
+        "word": "aware",
+        "phonetics": "[ə`wɛr]",
+        "syllable": "a·ware",
+        "pos": "adj.",
+        "definition_zh": "知道；意識到",
+        "definition_en": "knowing or realizing something",
+        "examples": [
+          {
+            "example": "None of the students was <b>aware</b> that their teacher was actually a famous author.",
+            "translate": "沒有一位學生知道他們的老師事實上是一位有名的作家。"
+          }
+        ],
+        "number": "wp_16"
+      },
+      {
+        "root_word": "awareness",
+        "word": "awareness",
+        "phonetics": "[ə`wɛrnɪs]",
+        "syllable": "a·ware·ness",
+        "pos": "n. [U]",
+        "definition_zh": "意識；認識",
+        "examples": [
+          {
+            "example": "The main aim of World AIDS Day is to raise our <b>awareness</b> of AIDS.",
+            "translate": "世界愛滋病日最主要的目標是要提升我們對愛滋病的認識。"
+          },
+          {
+            "example": "Although there is a growing environmental <b>awareness</b> in the world, many people continue to ruin the planet out of selfishness.",
+            "translate": "儘管世上的環保意識日益增長，許多人因為自私而繼續破壞這個星球。"
+          }
+        ],
+        "number": "wp_16_1"
+      },
+      {
+        "root_word": "clever",
+        "word": "clever",
+        "phonetics": "[`klɛvɚ]",
+        "syllable": "cle·ver",
+        "pos": "adj.",
+        "definition_zh": "聰明的",
+        "definition_en": "showing or done in a way that shows intelligent thinking",
+        "examples": [
+          {
+            "example": "The teacher was really impressed with the students’ <b>clever</b> ideas in their reports.",
+            "translate": "老師對於學生們報告裡聰明的點子印象非常深刻。"
+          }
+        ],
+        "number": "wp_17"
+      }
+    ]
+  },
+  {
+    "section": "Idioms and Phrases",
+    "word_forms": [
+      {
+        "root_word": "be likely to",
+        "word": "be likely to",
+        "phonetics": "",
+        "syllable": "",
+        "pos": "",
+        "definition_zh": "有可能會",
+        "definition_en": "to have a good chance of doing something",
+        "examples": [
+          {
+            "example": "The home team is <b>likely to</b> beat the visiting team with the support of all their fans.",
+            "translate": "有了所有球迷的支持，地主隊有可能打敗來賓隊。"
+          }
+        ],
+        "number": "ip_1"
+      },
+      {
+        "root_word": "within (...) reach",
+        "word": "within (...) reach",
+        "phonetics": "",
+        "syllable": "",
+        "pos": "",
+        "definition_zh": "在（……）伸手可及的範圍內",
+        "definition_en": "able to be reached from a certain distance",
+        "examples": [
+          {
+            "example": "Parents should never leave scissors or other dangerous items <b>within arm’s reach</b> of their young children.",
+            "translate": "父母絕不該把剪刀或其他危險物品放在幼兒伸手可及的地方。"
+          }
+        ],
+        "number": "ip_2"
+      },
+      {
+        "root_word": "line up",
+        "word": "line up",
+        "phonetics": "",
+        "syllable": "",
+        "pos": "",
+        "definition_zh": "排隊",
+        "definition_en": "to make a line and wait for something",
+        "examples": [
+          {
+            "example": "The announcement reminded passengers to <b>line up</b> before they boarded the plane.",
+            "translate": "廣播提醒乘客登機前要排隊。"
+          }
+        ],
+        "number": "ip_3"
+      },
+      {
+        "root_word": "take advantage of",
+        "word": "take advantage of",
+        "phonetics": "",
+        "syllable": "",
+        "pos": "",
+        "definition_zh": "利用",
+        "definition_en": "to use or do something in a way that helps someone",
+        "examples": [
+          {
+            "example": "Some people <b>took advantage of</b> Eva’s kindness by asking her too many favors.",
+            "translate": "有些人利用Eva的好心腸，請她幫忙做太多事。"
+          }
+        ],
+        "number": "ip_4"
+      },
+      {
+        "root_word": "set up",
+        "word": "set up",
+        "phonetics": "",
+        "syllable": "",
+        "pos": "",
+        "definition_zh": "設立；設置",
+        "definition_en": "to build something or put something together",
+        "examples": [
+          {
+            "example": "When it started to rain, the campers <b>set up</b> their tent immediately.",
+            "translate": "天空開始下雨時，露營的人馬上架起帳篷。"
+          }
+        ],
+        "number": "ip_5"
+      },
+      {
+        "root_word": "start off",
+        "word": "start off",
+        "phonetics": "",
+        "syllable": "",
+        "pos": "",
+        "definition_zh": "開始",
+        "definition_en": "to begin in a certain way or by doing a certain thing first",
+        "examples": [
+          {
+            "example": "Mia and Noah <b>started off</b> their journey in France, then traveled across Europe, and eventually returned home safe and sound to England.",
+            "translate": "Mia和Noah在法國開始他們的旅程，接著遊遍歐洲，最後安全返抵英國的家。"
+          }
+        ],
+        "number": "ip_6"
+      }
+    ]
+  },
+  {
+    "section": "Words for Recognition",
+    "word_forms": [
+      {
+        "root_word": "invitingly",
+        "word": "invitingly",
+        "phonetics": "[ɪn`vaɪtɪŋlɪ]",
+        "syllable": "in·vit·ing·ly",
+        "pos": "adv.",
+        "definition_zh": "誘人地",
+        "examples": [],
+        "number": "wr_1"
+      },
+      {
+        "root_word": "goody",
+        "word": "goody",
+        "phonetics": "[`gʊdɪ]",
+        "syllable": "good·y",
+        "pos": "n. [C], usually pl.",
+        "definition_zh": "糖果；好吃的東西",
+        "examples": [],
+        "number": "wr_2"
+      },
+      {
+        "root_word": "eye level",
+        "word": "eye level",
+        "phonetics": "[`aɪˏlɛvḷ]",
+        "syllable": "eye lev·el",
+        "pos": "n. [U]",
+        "definition_zh": "視線高度",
+        "examples": [],
+        "number": "wr_3"
+      },
+      {
+        "root_word": "eye-catching",
+        "word": "eye-catching",
+        "phonetics": "[`aɪˏkætʃɪŋ]",
+        "syllable": "eye-catch·ing",
+        "pos": "adj.",
+        "definition_zh": "引人注目的",
+        "examples": [],
+        "number": "wr_4"
+      },
+      {
+        "root_word": "cash register",
+        "word": "cash register",
+        "phonetics": "[`kæʃ ˏrɛdʒɪstɚ]",
+        "syllable": "cash reg·is·ter",
+        "pos": "n. [C]",
+        "definition_zh": "收銀機",
+        "examples": [],
+        "number": "wr_5"
+      },
+      {
+        "root_word": "seating",
+        "word": "seating",
+        "phonetics": "[`sitɪŋ]",
+        "syllable": "seat·ing",
+        "pos": "n. [U]",
+        "definition_zh": "座位",
+        "examples": [],
+        "number": "wr_6"
+      },
+      {
+        "root_word": "beverage",
+        "word": "beverage",
+        "phonetics": "[`bɛvərɪdʒ]",
+        "syllable": "bev·er·age",
+        "pos": "n. [C]",
+        "definition_zh": "飲料",
+        "examples": [],
+        "number": "wr_7"
+      }
+    ]
+  }
+]

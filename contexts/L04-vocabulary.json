@@ -1,0 +1,816 @@
+[
+  {
+    "section": "Words for Production",
+    "word_forms": [
+      {
+        "root_word": "sensitive",
+        "word": "sensitive",
+        "phonetics": "[sɛnsətɪv]",
+        "syllable": "sen·si·tive",
+        "pos": "adj.",
+        "definition_zh": "敏感的",
+        "definition_en": "able to notice very subtle things such as changes or differences that others may not be aware of",
+        "examples": [
+          {
+            "example": "Kelly is very <b>sensitive</b> to flavors. She can taste any food or drink and name it without seeing it.",
+            "translate": "Kelly對味道很敏感，不用看就知道吃了或喝了什麼。"
+          }
+        ],
+        "number": "wp_1"
+      },
+      {
+        "root_word": "keen",
+        "word": "keen",
+        "phonetics": "[kin]",
+        "syllable": "keen",
+        "pos": "adj.",
+        "definition_zh": "敏銳的",
+        "definition_en": "highly advanced, referring to the five senses",
+        "examples": [
+          {
+            "example": "The owl has such a <b>keen</b> sense of hearing that it can hunt animals in the dark.",
+            "translate": "貓頭鷹聽覺非常敏銳，所以可以在黑暗中獵食。"
+          }
+        ],
+        "number": "wp_2"
+      },
+      {
+        "root_word": "keen",
+        "word": "keen",
+        "phonetics": "[kin]",
+        "syllable": "keen",
+        "pos": "adj.",
+        "definition_zh": "渴望的；熱衷的",
+        "examples": [
+          {
+            "example": "Jamie is <b>keen</b> on making his classroom’s Facebook page the most interesting one in the school.",
+            "translate": "Jamie熱切地希望將班上的臉書專頁打造成全校最有趣的。"
+          }
+        ],
+        "number": "wp_2_1"
+      },
+      {
+        "root_word": "detect",
+        "word": "detect",
+        "phonetics": "[dɪ`tɛkt]",
+        "syllable": "de·tect",
+        "pos": "vt.",
+        "definition_zh": "偵測到；察覺",
+        "definition_en": "to find or be aware of something not easy to notice",
+        "examples": [
+          {
+            "example": "For most people, it is not easy to <b>detect</b> a small change in temperature.",
+            "translate": "多數人不易察覺溫度的細微變化。"
+          }
+        ],
+        "number": "wp_3"
+      },
+      {
+        "root_word": "item",
+        "word": "item",
+        "phonetics": "[`aɪtəm]",
+        "syllable": "i·tem",
+        "pos": "n. [C]",
+        "definition_zh": "一項物品",
+        "examples": [
+          {
+            "example": "More than half of the <b>items</b> in the clothing store were on sale for one day only.",
+            "translate": "那間服飾店超過半數的品項有單日特價。"
+          }
+        ],
+        "number": "wp_4"
+      },
+      {
+        "root_word": "accomplish",
+        "word": "accomplish",
+        "phonetics": "[ə`kɑmplɪʃ]",
+        "syllable": "ac·com·plish",
+        "pos": "vt.",
+        "verb_pattern": "accomplish-accomplished-accomplished",
+        "definition_zh": "達成",
+        "definition_en": "to complete a difficult task or reach a goal",
+        "examples": [
+          {
+            "example": "Albert respects those who have <b>accomplished</b> something great in their lives.",
+            "translate": "Albert尊敬那些在生活中成就卓越的人。"
+          }
+        ],
+        "number": "wp_5"
+      },
+      {
+        "root_word": "accomplish",
+        "word": "accomplishment",
+        "phonetics": "[ə`kɑmplɪʃmənt]",
+        "syllable": "ac·com·plish·ment",
+        "pos": "n.",
+        "definition_zh": "成就",
+        "examples": [
+          {
+            "example": "Marc felt that leading his basketball team to the city final was his greatest <b>accomplishment</b> of the year.",
+            "translate": "Marc覺得帶領他的籃球隊挺進全市決賽是他今年最大的成就。"
+          }
+        ],
+        "number": "wp_5_1"
+      },
+      {
+        "root_word": "disease",
+        "word": "disease",
+        "phonetics": "[dɪ`ziz]",
+        "syllable": "di·sease",
+        "pos": "n. [U, C]",
+        "definition_zh": "疾病",
+        "definition_en": "a human, animal, or plant sickness that is usually caused by an infection",
+        "examples": [
+          {
+            "example": "Washing your hands often is a good way to stop the spread of <b>disease</b>.",
+            "translate": "常洗手是預防疾病傳染的好方法。"
+          },
+          {
+            "example": "Lynn’s grandmother is suffering from a serious heart <b>disease</b>, so she is staying in a hospital.",
+            "translate": "Lynn的祖母罹患嚴重的心臟病，現正住院中。"
+          }
+        ],
+        "number": "wp_6"
+      },
+      {
+        "root_word": "infect",
+        "word": "infected",
+        "phonetics": "[ɪn`fɛktɪd]",
+        "syllable": "in·fect·ed",
+        "pos": "adj.",
+        "definition_zh": "遭感染的",
+        "definition_en": "affected by or containing disease-causing bacteria",
+        "examples": [
+          {
+            "example": "Several passengers were found to have the disease after they took the same flight as an <b>infected</b> person.",
+            "translate": "數位旅客在與感染者搭同一班飛機後也被發現患病了。"
+          }
+        ],
+        "number": "wp_7"
+      },
+      {
+        "root_word": "infect",
+        "word": "infect",
+        "phonetics": "[ɪn`fɛkt]",
+        "syllable": "in·fect",
+        "pos": "vt.",
+        "definition_zh": "感染",
+        "examples": [
+          {
+            "example": "More than 70 million people have been <b>infected</b> with AIDS in the last 50 years.",
+            "translate": "過去五十年來，超過七千萬人感染愛滋病。"
+          }
+        ],
+        "number": "wp_7_1"
+      },
+      {
+        "root_word": "infect",
+        "word": "infection",
+        "phonetics": "[ɪn`fɛkʃən]",
+        "syllable": "in·fec·tion",
+        "pos": "n.",
+        "definition_zh": "感染",
+        "examples": [
+          {
+            "example": "The boy developed a serious <b>infection</b> on his leg because he didn’t clean the wound after he fell.",
+            "translate": "這名小男孩跌倒後並未清理傷口，因此腿部出現了嚴重的感染。"
+          },
+          {
+            "example": "You shouldn’t rub your eyes because it can cause <b>infection</b>.",
+            "translate": "你不能揉眼睛，因為這樣會導致感染。"
+          }
+        ],
+        "number": "wp_7_2"
+      },
+      {
+        "root_word": "locate",
+        "word": "locate",
+        "phonetics": "[lo`ket]",
+        "syllable": "lo·cate",
+        "pos": "vt.",
+        "definition_zh": "找到……（的位置）",
+        "definition_en": "to find a certain place, or the position of someone or something",
+        "examples": [
+          {
+            "example": "These days, most taxi drivers use GPS to <b>locate</b> places they don’t know how to drive to.",
+            "translate": "現在，多數的計程車司機都用GPS找到他們不知道路的地方。"
+          }
+        ],
+        "number": "wp_8"
+      },
+      {
+        "root_word": "locate",
+        "word": "location",
+        "phonetics": "[lo`keʃən]",
+        "syllable": "lo·ca·tion",
+        "pos": "n. [C]",
+        "definition_zh": "地點",
+        "examples": [
+          {
+            "example": "This hotel is very expensive because it is in a good <b>location</b> right beside a beach.",
+            "translate": "這間飯店很貴，因為就位在美麗海灘旁絕佳的地點。"
+          }
+        ],
+        "number": "wp_8_1"
+      },
+      {
+        "root_word": "reward",
+        "word": "reward",
+        "phonetics": "[rɪ`wɔrd]",
+        "syllable": "re·ward",
+        "pos": "n. [C, U]",
+        "definition_zh": "獎勵；報酬",
+        "definition_en": "something that is given to someone in recognition of a good deed or difficult task he or she has accomplished",
+        "examples": [
+          {
+            "example": "Janice was given a <b>reward</b> of $2,000 for informing the police of the address of the man they were searching for.",
+            "translate": "Janice告知警方他們追緝中的男子的地址，因此獲贈 2,000 元的賞金。"
+          },
+          {
+            "example": "Larry feels satisfied when he helps strangers, even if there is no <b>reward</b>.",
+            "translate": "Larry覺得幫助陌生人很有滿足感，就算沒有報酬也無妨。"
+          }
+        ],
+        "number": "wp_9"
+      },
+      {
+        "root_word": "reward",
+        "word": "reward",
+        "phonetics": "[rɪ`wɔrd]",
+        "syllable": "re·ward",
+        "pos": "vt.",
+        "definition_zh": "獎賞；提供報酬",
+        "examples": [
+          {
+            "example": "The teacher <b>rewarded</b> each of the students with a small prize after they all passed the exam.",
+            "translate": "老師給每位學生小獎品，以獎勵他們考試全數及格。"
+          }
+        ],
+        "number": "wp_9_1"
+      },
+      {
+        "root_word": "ability",
+        "word": "ability",
+        "phonetics": "[ə`bɪlətɪ]",
+        "syllable": "a·bil·i·ty",
+        "pos": "n. sing.",
+        "definition_zh": "能力",
+        "definition_en": "the power to do a certain thing or a special thing that one can do",
+        "examples": [
+          {
+            "example": "Eagles have the <b>ability</b> to fly without landing for over three hours.",
+            "translate": "老鷹有飛行超過三小時不需著地的能力。"
+          }
+        ],
+        "number": "wp_10"
+      },
+      {
+        "root_word": "predict",
+        "word": "predict",
+        "phonetics": "[prɪ`dɪkt]",
+        "syllable": "pre·dict",
+        "pos": "vt.",
+        "definition_zh": "預測",
+        "definition_en": "to guess that something will happen at a future time",
+        "examples": [
+          {
+            "example": "The weatherperson <b>predicted</b> that it would start raining around 6:00 p.m., and she was correct.",
+            "translate": "氣象人員預報晚上六點左右會開始下雨，果然沒錯。"
+          }
+        ],
+        "number": "wp_11"
+      },
+      {
+        "root_word": "manage",
+        "word": "manage",
+        "phonetics": "[`mænɪdʒ]",
+        "syllable": "ma·nage",
+        "pos": "vt. vi.",
+        "definition_zh": "設法成功做到；能夠應付",
+        "definition_en": "to put great effort into doing something and succeed",
+        "examples": [
+          {
+            "example": "Kyle <b>managed</b> to lose twenty pounds by exercising every day and eating less junk food.",
+            "translate": "Kyle靠著每天運動並且少吃垃圾食物成功瘦下 20 磅。"
+          },
+          {
+            "example": "Joey wasn’t sure that he could handle living abroad, but he <b>managed</b> quite well.",
+            "translate": "Joey不確定自己是否能適應國外生活，但他應付得相當不錯。"
+          }
+        ],
+        "number": "wp_12"
+      },
+      {
+        "root_word": "manage",
+        "word": "manage",
+        "phonetics": "[`mænɪdʒ]",
+        "syllable": "ma·nage",
+        "pos": "vt.",
+        "definition_zh": "明智地使用、管理（金錢、時間等）",
+        "examples": [
+          {
+            "example": "Hailey’s parents told her that she should <b>manage</b> her money more carefully and stop wasting it.",
+            "translate": "Hailey的爸媽要她更小心用錢，不要亂花。"
+          }
+        ],
+        "number": "wp_12_1"
+      },
+      {
+        "root_word": "manage",
+        "word": "management",
+        "phonetics": "[`mænɪdʒmənt]",
+        "syllable": "ma·nage·ment",
+        "pos": "n.",
+        "definition_zh": "管理",
+        "examples": [
+          {
+            "example": "For busy people like the president of a country, good time <b>management</b> is of great importance.",
+            "translate": "對於一國總統這樣的忙人來說，良好的時間管理非常重要。"
+          }
+        ],
+        "number": "wp_12_2"
+      },
+      {
+        "root_word": "create",
+        "word": "create",
+        "phonetics": "[krɪ`et]",
+        "syllable": "cre·ate",
+        "pos": "vt.",
+        "verb_pattern": "create-created-created",
+        "definition_zh": "創造；產生出",
+        "definition_en": "to cause something to come to be or to exist",
+        "examples": [
+          {
+            "example": "The inventor of the telephone, Antonio Meucci, <b>created</b> a new way for humans to communicate.",
+            "translate": "電話的發明者Antonio Meucci創造了一種讓人類溝通的新方式。"
+          }
+        ],
+        "number": "wp_13"
+      },
+      {
+        "root_word": "create",
+        "word": "creation",
+        "phonetics": "[krɪ`eʃən]",
+        "syllable": "cre·a·tion",
+        "pos": "n.",
+        "definition_zh": "創造；創建",
+        "examples": [
+          {
+            "example": "After the <b>creation</b> of the movie theater’s website, few people called to find out what movies were playing.",
+            "translate": "在創建這個電影院的網站之後，很少人會打電話去查詢有什麼電影正在上映了。"
+          }
+        ],
+        "number": "wp_13_1"
+      },
+      {
+        "root_word": "create",
+        "word": "creative",
+        "phonetics": "[krɪ`etɪv]",
+        "syllable": "cre·a·tive",
+        "pos": "adj.",
+        "definition_zh": "有創意的",
+        "examples": [
+          {
+            "example": "Nicole always has interesting new ideas, and she shows that in her <b>creative</b> paintings and drawings.",
+            "translate": "Nicole永遠都有有趣的新點子，也展現在她富含創意的畫作上。"
+          }
+        ],
+        "number": "wp_13_2"
+      },
+      {
+        "root_word": "create",
+        "word": "creativity",
+        "phonetics": "[ˏkrie`tɪvətɪ]",
+        "syllable": "cre·a·tiv·i·ty",
+        "pos": "n.",
+        "definition_zh": "創意",
+        "examples": [
+          {
+            "example": "The students in the class showed great <b>creativity</b> in the wide range of topics they chose for their articles.",
+            "translate": "這個班的學生們選擇的文章主題範圍相當廣，展現了十足的創意。"
+          }
+        ],
+        "number": "wp_13_3"
+      },
+      {
+        "root_word": "expose",
+        "word": "expose",
+        "phonetics": "[ɪk`spoz]",
+        "syllable": "ex·pose",
+        "pos": "vt.",
+        "definition_zh": "使接觸；使體驗",
+        "definition_en": "to let someone experience something or to introduce something to someone",
+        "examples": [
+          {
+            "example": "By reading these articles, students will be <b>exposed</b> to different opinions about the topic.",
+            "translate": "通過閱讀這些文章，學生將會接觸到關於該主題不同的意見。"
+          }
+        ],
+        "number": "wp_14"
+      },
+      {
+        "root_word": "expose",
+        "word": "expose",
+        "phonetics": "[ɪk`spoz]",
+        "syllable": "ex·pose",
+        "pos": "vt.",
+        "definition_zh": "使暴露於；使遭受（危險或不快）",
+        "examples": [
+          {
+            "example": "It’s important to wear sunglasses on sunny days because your eyes could be injured if they are <b>exposed</b> for too long.",
+            "translate": "晴天時戴太陽眼鏡是重要的，不然眼睛暴露在陽光下太久會受傷。"
+          }
+        ],
+        "number": "wp_14_1"
+      },
+      {
+        "root_word": "expose",
+        "word": "exposure",
+        "phonetics": "[ɪk`spoʒɚ]",
+        "syllable": "ex·po·sure",
+        "pos": "n.",
+        "definition_zh": "暴露",
+        "examples": [
+          {
+            "example": "Too much <b>exposure</b> to the sun and wind caused the paint on the building to come off.",
+            "translate": "大量的風吹日曬造成大樓外牆油漆剝落。"
+          }
+        ],
+        "number": "wp_14_2"
+      },
+      {
+        "root_word": "perform",
+        "word": "perform",
+        "phonetics": "[pɚ`fɔrm]",
+        "syllable": "per·form",
+        "pos": "vt.",
+        "definition_zh": "做某事；做某種行為",
+        "definition_en": "to carry out an action, task, or duty",
+        "examples": [
+          {
+            "example": "After Mrs. Checknita fell ill, her family hired someone to help her <b>perform</b> daily tasks.",
+            "translate": "在Checknita太太生病後，她的家人僱人來幫助她執行日常事務。"
+          }
+        ],
+        "number": "wp_15"
+      },
+      {
+        "root_word": "perform",
+        "word": "perform",
+        "phonetics": "[pɚ`fɔrm]",
+        "syllable": "per·form",
+        "pos": "vt. vi.",
+        "definition_zh": "表演",
+        "examples": [
+          {
+            "example": "Brad <b>performed</b> a song as a creative way to ask Jennifer to marry him.",
+            "translate": "Brad演唱了一首歌，當作向Jennifer求婚的創意方式。"
+          },
+          {
+            "example": "The band has practiced a lot, and this show will be the first time they <b>perform</b> on stage.",
+            "translate": "這個樂團練了很久，這場表演是他們首次登臺表演。"
+          }
+        ],
+        "number": "wp_15_1"
+      },
+      {
+        "root_word": "perform",
+        "word": "performance",
+        "phonetics": "[pɚ`fɔrməns]",
+        "syllable": "per·for·mance",
+        "pos": "n.",
+        "definition_zh": "表演",
+        "examples": [
+          {
+            "example": "The magician will give a <b>performance</b> of his best tricks at the end of the evening show.",
+            "translate": "今晚魔術秀的結尾，魔術師會表演他的拿手絕活。"
+          }
+        ],
+        "number": "wp_15_2"
+      },
+      {
+        "root_word": "behavior",
+        "word": "behavior",
+        "phonetics": "[bɪ`hevjɚ]",
+        "syllable": "be·hav·ior",
+        "pos": "n. [U] ",
+        "definition_zh": "行為",
+        "definition_en": "the way a person or animal acts",
+        "examples": [
+          {
+            "example": "Animal <b>behavior</b> can tell us a lot about what a creature is thinking about or wants.",
+            "translate": "動物行為可以讓我們清楚知道動物在想什麼或想要什麼。"
+          }
+        ],
+        "number": "wp_16"
+      },
+      {
+        "root_word": "behavior",
+        "word": "behave",
+        "phonetics": "[bɪ`hev]",
+        "syllable": "be·have",
+        "pos": "vi.",
+        "definition_zh": "表現",
+        "examples": [
+          {
+            "example": "All the guests were impressed by how little Mandy <b>behaved</b> like an adult.",
+            "translate": "所有的客人都對小Mandy大人般的行為留下深刻印象。"
+          }
+        ],
+        "number": "wp_16_1"
+      },
+      {
+        "root_word": "alert",
+        "word": "alert",
+        "phonetics": "[ə`lɝt]",
+        "syllable": "a·lert",
+        "pos": "n.",
+        "definition_zh": "警示",
+        "definition_en": "a warning that there may be some sort of danger or some special problem",
+        "examples": [
+          {
+            "example": "Everybody was asked to leave the mall due to a bomb <b>alert</b> in one of the stores.",
+            "translate": "所有人都被要求離開購物中心，因為其中一間店有炸彈警示。"
+          }
+        ],
+        "number": "wp_17"
+      },
+      {
+        "root_word": "alert",
+        "word": "alert",
+        "phonetics": "[ə`lɝt]",
+        "syllable": "a·lert",
+        "pos": "adj.",
+        "definition_zh": "警覺的",
+        "examples": [
+          {
+            "example": "The little beeps that your phone makes help you stay <b>alert</b> to new emails, messages, and posts.",
+            "translate": "你的手機發出的小小嗶嗶聲會提醒你有新的郵件、訊息或貼文。"
+          }
+        ],
+        "number": "wp_17_1"
+      },
+      {
+        "root_word": "complete",
+        "word": "complete",
+        "phonetics": "[kəm`plit]",
+        "syllable": "com·plete",
+        "pos": "adj.",
+        "definition_zh": "已完成的；已結束的",
+        "definition_en": "finished; entirely done",
+        "examples": [
+          {
+            "example": "The race is not <b>complete</b> until every runner from every team crosses the finish line.",
+            "translate": "比賽要等到各隊的每位跑者都跨過終點線才算結束。"
+          }
+        ],
+        "number": "wp_18"
+      },
+      {
+        "root_word": "complete",
+        "word": "complete",
+        "phonetics": "[kəm`plit]",
+        "syllable": "com·plete",
+        "pos": "adj.",
+        "definition_zh": "完整的",
+        "examples": [
+          {
+            "example": "In this English literature course, we will study the <b>complete</b> works of Shakespeare.",
+            "translate": "在這門英國文學課程裡，我們將會研讀整套莎士比亞的作品。"
+          }
+        ],
+        "number": "wp_18_1"
+      },
+      {
+        "root_word": "complete",
+        "word": "complete",
+        "phonetics": "[kəm`plit]",
+        "syllable": "com·plete",
+        "pos": "vt.",
+        "definition_zh": "完成",
+        "examples": [
+          {
+            "example": "Kevin is an excellent student. He always <b>completes</b> school projects long before they are due.",
+            "translate": "Kevin是個優秀的學生，他總是於期限前的一大段時間，便完成學校的報告。"
+          }
+        ],
+        "number": "wp_18_2"
+      },
+      {
+        "root_word": "assign",
+        "word": "assign",
+        "phonetics": "[ə`saɪn]",
+        "syllable": "as·sign",
+        "pos": "vt.",
+        "definition_zh": "指派",
+        "definition_en": "to give a special task or role to a certain person",
+        "examples": [
+          {
+            "example": "Craig was <b>assigned</b> the task of giving the new students a tour of the school.",
+            "translate": "Craig被指派一項帶著新學生校園導覽的任務。"
+          }
+        ],
+        "number": "wp_19"
+      },
+      {
+        "root_word": "assign",
+        "word": "assignment",
+        "phonetics": "[ə`saɪnmənt]",
+        "syllable": "as·sign·ment",
+        "pos": "n.",
+        "definition_zh": "（分派的）作業；工作",
+        "examples": [
+          {
+            "example": "The students are going to Tainan on an <b>assignment</b> for history class.",
+            "translate": "這些學生將到臺南做歷史課的作業。"
+          }
+        ],
+        "number": "wp_19_1"
+      },
+      {
+        "root_word": "specific",
+        "word": "specific",
+        "phonetics": "[spɪ`sɪfɪk]",
+        "syllable": "spe·cif·ic",
+        "pos": "adj.",
+        "definition_zh": "特定的",
+        "definition_en": "relating to one certain thing",
+        "examples": [
+          {
+            "example": "There wasn’t any <b>specific</b> reason why Jason didn’t attend the performance with his friends. He just didn’t feel like it.",
+            "translate": "Jason沒有和朋友一起去觀賞演出並沒有什麼特別理由。他純粹是不想去罷了。"
+          }
+        ],
+        "number": "wp_20"
+      }
+    ]
+  },
+  {
+    "section": "Idioms and Phrases",
+    "word_forms": [
+      {
+        "root_word": "due to",
+        "word": "due to",
+        "definition_zh": "因為",
+        "definition_en": "because of",
+        "examples": [
+          {
+            "example": "The restaurant was not very popular <b>due to</b> the smell of the seafood market nearby.",
+            "translate": "這間餐廳因為附近生鮮市場令人作嘔的氣味而不太受歡迎。"
+          }
+        ],
+        "number": "ip_1"
+      },
+      {
+        "root_word": "all of a sudden",
+        "word": "all of a sudden",
+        "definition_zh": "突然間",
+        "definition_en": "quickly and unexpectedly",
+        "examples": [
+          {
+            "example": "Cindy was walking down the street when <b>all of a sudden</b>, rain began to pour down from the sky.",
+            "translate": "Cindy在街上走著，突然間從天上大雨傾盆而下。"
+          }
+        ],
+        "number": "ip_2"
+      },
+      {
+        "root_word": "turn out",
+        "word": "turn out",
+        "verb_pattern": "turn out-turned out-turned out",
+        "definition_zh": "結果是",
+        "definition_en": "to end in a certain way",
+        "examples": [
+          {
+            "example": "All the members of the band were worried about their performance, but it <b>turned out</b> to be amazing!",
+            "translate": "所有的樂團成員都很擔心他們的演出，但結果很棒！"
+          }
+        ],
+        "number": "ip_3"
+      },
+      {
+        "root_word": "come across",
+        "word": "come across",
+        "verb_pattern": "come across-came across-come across",
+        "definition_zh": "遇到；偶然碰見",
+        "definition_en": "to find something or someone by chance",
+        "examples": [
+          {
+            "example": "Paulina went through all of her receipts but didn’t <b>come across</b> any winning numbers.",
+            "translate": "Paulina把所有的發票仔細看過一遍，都沒有發現任何中獎號碼。"
+          }
+        ],
+        "number": "ip_4"
+      },
+      {
+        "root_word": "carry out",
+        "word": "carry out",
+        "verb_pattern": "carry out-carried out-carried out",
+        "definition_zh": "執行；進行",
+        "definition_en": "to do and complete a task or an assignment",
+        "examples": [
+          {
+            "example": "After the statue went missing from the square, the police <b>carried out</b> an investigation.",
+            "translate": "在雕像從廣場消失後，警方便進行調查。"
+          }
+        ],
+        "number": "ip_5"
+      }
+    ]
+  },
+  {
+    "section": "Words for Recognition",
+    "word_forms": [
+      {
+        "root_word": "sniff",
+        "word": "sniff",
+        "phonetics": "[snɪf]",
+        "syllable": "sniff",
+        "pos": "vt.",
+        "definition_zh": "嗅；聞",
+        "number": "wr_1"
+      },
+      {
+        "root_word": "sniffer dog",
+        "word": "sniffer dog",
+        "phonetics": "[`snɪfɚ dɔg]",
+        "syllable": "snif·fer·dog",
+        "pos": "n. [C]",
+        "definition_zh": "嗅探犬",
+        "number": "wr_2"
+      },
+      {
+        "root_word": "official",
+        "word": "official",
+        "phonetics": "[ə`fɪʃəl]",
+        "syllable": "of·fi·cial",
+        "pos": "n. [C]",
+        "definition_zh": "公務員",
+        "number": "wr_3"
+      },
+      {
+        "root_word": "brown root rot disease",
+        "word": "brown root rot disease",
+        "phonetics": "[braʊn rut rɑt dɪ`ziz]",
+        "syllable": "brown root rot di·sease",
+        "pos": "n.",
+        "definition_zh": "褐根病",
+        "number": "wr_4"
+      },
+      {
+        "root_word": "onset",
+        "word": "onset",
+        "phonetics": "[`ɑn͵sɛt]",
+        "syllable": "on·set",
+        "pos": "n. sing.",
+        "definition_zh": "開始",
+        "number": "wr_5"
+      },
+      {
+        "root_word": "diabetes",
+        "word": "diabetes",
+        "phonetics": "[͵daɪə`bitɪs]",
+        "syllable": "di·a·be·tes",
+        "pos": "n. [U]",
+        "definition_zh": "糖尿病",
+        "number": "wr_6"
+      },
+      {
+        "root_word": "blood sugar",
+        "word": "blood sugar",
+        "phonetics": "[`blʌd ͵ʃʊgɚ]",
+        "syllable": "blood sug·ar",
+        "pos": "n. [U]",
+        "definition_zh": "血糖",
+        "number": "wr_7"
+      },
+      {
+        "root_word": "above-mentioned",
+        "word": "above-mentioned",
+        "phonetics": "[ə`bʌv `mɛnʃənd]",
+        "syllable": "a·bove-men·tioned",
+        "pos": "adj.",
+        "definition_zh": "以上所提到的",
+        "number": "wr_8"
+      },
+      {
+        "root_word": "chemical",
+        "word": "chemical",
+        "phonetics": "[`kɛmɪkḷ]",
+        "syllable": "che·mi·cal",
+        "pos": "adj.",
+        "definition_zh": "化學的",
+        "number": "wr_9"
+      },
+      {
+        "root_word": "odor",
+        "word": "odor",
+        "phonetics": "[`odɚ]",
+        "syllable": "o·dor",
+        "pos": "n. [C]",
+        "definition_zh": "（難聞的）氣味",
+        "number": "wr_10"
+      }
+    ]
+  }
+]

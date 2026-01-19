@@ -1,0 +1,44 @@
+{
+    "L08-課文中英對照(Convenience Stores).docx": [
+        {
+            "paragraph_index": 1,
+            "english": "It has probably happened to you before. The glass doors of the convenience store slide open invitingly; you hear the familiar “Welcome!” and enter just to pick up one item. A few minutes later, you walk out with a whole bag full of drinks, snacks, and other goodies you never even thought of buying!",
+            "english_with_html": "I t has probably happened to you before. The glass doors of the convenience store slide open <b id=\"wr_1\">invitingly</b>; you hear the <b id=\"wp_1\">familiar</b><span style=\"color: #0070C0\"> </span> “Welcome!” and enter just to pick up one item. A few minutes later, you walk out with a whole bag full of drinks, snacks, and other <b>goodies</b> you never even thought of buying!",
+            "chinese": "以前這大概發生在你身上過。便利商店的玻璃門很誘人地滑開，你聽見熟悉的「歡迎光臨！」然後走進店裡，只為了購買一樣東西。幾分鐘之後，你走出來，帶著一整袋滿滿的飲料、點心，以及其他你甚至從未想過要買的好吃東西！",
+            "summary": "Summary generation failed",
+            "summary_chinese": "摘要生成失敗"
+        },
+        {
+            "paragraph_index": 2,
+            "english": "There’s no need to be embarrassed if you’ve experienced this sudden urge to shop. Convenience stores use certain strategies to make you feel this way. One of these strategies is to follow the “eye level is buy level” rule. The more visible the products are, the easier it is for shoppers to notice and purchase them. Therefore, smart shop owners usually place their most profitable and popular items at the average shopper’s eye level to make sure that those items are most likely to be seen. Similarly, products that are aimed at children, such as toys, are placed on lower shelves so that younger shoppers will surely see them.",
+            "english_with_html": "There’s no need to be embarrassed if you’ve experienced this sudden <b id=\"wp_2\">urge</b><span style=\"color: #0070C0\"> </span> to shop. Convenience stores use certain <b>strategies</b><span style=\"color: #0070C0\"> </span> to make you feel this way. One of these strategies is to follow the “<b id=\"wr_3\">eye level</b> is buy level” rule. The more <b id=\"wp_4\">visible</b><span style=\"color: #0070C0\"> </span> the products are, the easier it is for shoppers to notice and <b id=\"wp_5\">purchase</b><span style=\"color: #0070C0\"> </span> them. Therefore, smart shop owners usually place their most <b id=\"wp_6\">profitable</b><span style=\"color: #0070C0\"> </span> and popular items at the average shopper’s eye level to make sure that those items <span style=\"color: #0070C0\"><b>are</b></span> most <span style=\"color: #0070C0\"><b>likely to</b></span> be seen. <b id=\"wp_8\">Similarly</b><span style=\"color: #0070C0\"> </span>, products that are <b>aimed</b><span style=\"color: #0070C0\"> </span> at children, such as toys, are placed on lower shelves so that younger shoppers will surely see them.",
+            "chinese": "如果你曾經歷過這種突然想購物的衝動，不需要感到不好意思。便利商店運用某些策略，讓你有這樣子的感覺。其中一項策略，就是遵循「視線高度等於購買高度」的規則。商品愈容易被看見，顧客愈容易注意並購買它們。因此，聰明的店主通常把他們最有利潤及最受歡迎的商品，擺放在一般顧客的視線高度以確保那些商品最有可能被看見。同樣地，以兒童為對象的商品，比如玩具，則被放在較低的貨架以便讓年紀較小的顧客一定會看見它們。",
+            "summary": "Summary generation failed",
+            "summary_chinese": "摘要生成失敗"
+        },
+        {
+            "paragraph_index": 3,
+            "english": "Another eye-catching convenience store strategy is to promote impulse purchases of small, cheap items like candy bars. These are displayed near cash registers and are thus easily noticed and within quick reach. Special offers, like “buy one, get one free,” make such little “extras” even more attractive. Since customers are lining up at cash registers to pay for their things anyway, these items can easily be grabbed and added to their shopping baskets on impulse.",
+            "english_with_html": "Another <b id=\"wr_4\">eye-catching</b> convenience store strategy is to promote <b id=\"wp_12\">impulse</b><span style=\"color: #0070C0\"> </span> purchases of small, cheap items like candy bars. These are <b id=\"wp_13\">displayed</b><span style=\"color: #0070C0\"> </span> near <b>cash registers</b> and are thus easily noticed and <span style=\"color: #0070C0\"><b id=\"ip_2\">within</b></span> quick <span style=\"color: #0070C0\"><b id=\"ip_2\">reach</b></span>. Special <b id=\"wp_14\">offers</b><span style=\"color: #0070C0\"> </span>, like “buy one, get one free,” make such little “extras” even more attractive. Since <b id=\"wp_15\">customers</b><span style=\"color: #0070C0\"> </span> are <span style=\"color: #0070C0\"><b>lining up</b></span> at cash registers to pay for their things anyway, these items can easily be grabbed and added to their shopping baskets on impulse.",
+            "chinese": "另一項引人注目的便利商店策略是提高對便宜小物的衝動購物，比如糖果棒。這些商品會被展示於靠近收銀機的地方，因此容易被注意，而且可以快速取得。商品特價，像是「買一送一」，使這些小的「額外東西」更加吸引人。反正因為顧客們正在收銀機排隊以便為他們所買的東西付錢，這些商品可以容易被取得，然後被一時衝動加到他們的購物籃裡。",
+            "summary": "Summary generation failed",
+            "summary_chinese": "摘要生成失敗"
+        },
+        {
+            "paragraph_index": 4,
+            "english": "A third strategy is to make customers spend more time in stores so that they will spend more money, too. Studies have shown that the longer people stay inside, the more products they buy. Shops take advantage of this by setting up bar-style seating or dining areas. Here, people can read the paper, hold a meeting, or just hang out. Although these customers might start off with just a beverage, they often grow hungry over time. Eventually, they end up purchasing more things like microwave dinners and fruit packs.",
+            "english_with_html": "A third strategy is to make customers spend more time in stores so that they will spend more money, too. Studies have shown that the longer people stay inside, the more products they buy. Shops <span style=\"color: #0070C0\"><b>take advantage</b> <b id=\"ip_4\"> of</b></span> this by <span style=\"color: #0070C0\"><b>setting up</b></span> bar-style <b id=\"wr_6\">seating</b> or dining areas . Here, people can read the paper, hold a meeting, or just hang out. Although these customers might <span style=\"color: #0070C0\"><b id=\"ip_6\">start off</b></span> with just a <b id=\"wr_7\">beverage</b>, they often grow hungry over time. <b id=\"wp_17\">Eventually</b><span style=\"color: #0070C0\"> </span>, they end up purchas ing more things like microwave dinners and fruit packs.",
+            "chinese": "第三個策略是使顧客在店裡面花更多的時間，他們因此也會花更多的錢。研究已經顯示，人們在店裡待得愈久，他們會買愈多的產品。便利商店利用這點，設立吧檯式的座位或是用餐區。在這裡，人們可以看報紙、舉行會議，或只是消磨時間。雖然這些顧客可能開始只是買個飲料，他們時常隨著時間過去而變餓。最後，他們會買更多東西，像是微波晚餐以及盒裝水果。",
+            "summary": "Summary generation failed",
+            "summary_chinese": "摘要生成失敗"
+        },
+        {
+            "paragraph_index": 5,
+            "english": "To avoid falling into any of the traps above, try to be more aware of the clever strategies convenience stores use to get deeper into your pocket. If you can always remember the tricks that shop owners use, you won’t have to worry about spending too much!",
+            "english_with_html": "To avoid falling into any of the <b id=\"wp_19\">traps</b><span style=\"color: #0070C0\"> </span> above, try to be more <b id=\"wp_20\">aware</b><span style=\"color: #0070C0\"> </span> of the <b id=\"wp_22\">clever</b><span style=\"color: #0070C0\"> </span> strategies convenience stores use to get deeper into your pocket. If you can always remember the tricks that shop owners use, you won’t have to worry about spending too much!",
+            "chinese": "為了避免落入任何以上的圈套，設法對這些便利商店用來深入你口袋的聰明策略更加警覺。如果你可以總是記得這些店主們使用的伎倆，你將不需要擔心花太多錢！",
+            "summary": "Summary generation failed",
+            "summary_chinese": "摘要生成失敗"
+        }
+    ]
+}
