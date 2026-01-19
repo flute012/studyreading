@@ -1,0 +1,790 @@
+[
+  {
+    "section": "Words for Production",
+    "word_forms": [
+      {
+        "root_word": "plastic",
+        "word": "plastic",
+        "phonetics": "[`plæstɪk]",
+        "syllable": "plas·tic",
+        "pos": "adj.",
+        "definition_zh": "塑膠（製）的",
+        "definition_en": "made of a type of material that can be shaped into countless forms",
+        "examples": [
+          {
+            "example": "You should never put hot drinking water into <b>plastic</b> bottles or cups.",
+            "translate": "你絕對不可以將熱開水放到塑膠瓶或塑膠杯裡。"
+          }
+        ],
+        "number": "wp_1"
+      },
+      {
+        "root_word": "plastic",
+        "word": "plastic",
+        "phonetics": "[`plæstɪk]",
+        "syllable": "plas·tic",
+        "pos": "n.",
+        "definition_zh": "塑膠",
+        "definition_en": "",
+        "examples": [
+          {
+            "example": "In the old days, many toys were made of wood or metal, but now most of them are made of <b>plastic</b>.",
+            "translate": "在以前，許多玩具都由木頭或金屬所製成，但是現在大部分玩具都是塑膠製的。"
+          }
+        ],
+        "number": "wp_1_1"
+      },
+      {
+        "root_word": "convenience",
+        "word": "convenience",
+        "phonetics": "[kən`vinjəns]",
+        "syllable": "con·ve·nience",
+        "pos": "n. [U]",
+        "definition_zh": "便利",
+        "definition_en": "the condition of being useful, easy, or suitable for people",
+        "examples": [
+          {
+            "example": "Many shops post their business hours on their Facebook pages for the <b>convenience</b> of the public.",
+            "translate": "為了大眾方便，許多商店會將它們的營業時間張貼在它們的臉書頁面上。"
+          }
+        ],
+        "number": "wp_2"
+      },
+      {
+        "root_word": "eager",
+        "word": "eagerly",
+        "phonetics": "[`igɚlɪ]",
+        "syllable": "eag·er·ly",
+        "pos": "adv.",
+        "definition_zh": "渴望地",
+        "definition_en": "in a way that shows excitement about something that will soon happen",
+        "examples": [
+          {
+            "example": "Rick is <b>eagerly</b> waiting for his boss to post the summer work schedule because he wants to plan his vacation.",
+            "translate": "Rick渴望地等待他的老闆張貼夏季的工作時間表，因為他想要計畫他的假期。"
+          }
+        ],
+        "number": "wp_3"
+      },
+      {
+        "root_word": "eager",
+        "word": "eager",
+        "phonetics": "[`igɚ]",
+        "syllable": "eag·er",
+        "pos": "adj.",
+        "definition_zh": "渴望的",
+        "definition_en": "",
+        "examples": [
+          {
+            "example": "After John sent the romantic email to his girlfriend, he was <b>eager</b> for her reply.",
+            "translate": "在John寄出給他女朋友的浪漫電子郵件後，他渴望著她的回覆。"
+          }
+        ],
+        "number": "wp_3_1"
+      },
+      {
+        "root_word": "surround",
+        "word": "surround",
+        "phonetics": "[sə`raʊnd]",
+        "syllable": "sur·round",
+        "pos": "vt.",
+        "verb_pattern": "surround-surrounded-surrounded",
+        "definition_zh": "圍繞",
+        "definition_en": "to be or go totally around something or someone",
+        "examples": [
+          {
+            "example": "The house is <b>surrounded</b> by tall trees, so nobody can see it from the road.",
+            "translate": "那棟房子被高聳的樹所圍繞，所以沒有人能從馬路上看到它。"
+          }
+        ],
+        "number": "wp_4"
+      },
+      {
+        "root_word": "surround",
+        "word": "surroundings",
+        "phonetics": "[səˋraʊndɪŋz]",
+        "syllable": "sur·round·ings",
+        "pos": "n. pl.",
+        "definition_zh": "環境",
+        "definition_en": "",
+        "examples": [
+          {
+            "example": "The hotel is in beautiful natural <b>surroundings</b> far away from the city.",
+            "translate": "這間旅館位在遠離城市的美麗自然環境中。"
+          }
+        ],
+        "number": "wp_4_1"
+      },
+      {
+        "root_word": "drift",
+        "word": "drift",
+        "phonetics": "[drɪft]",
+        "syllable": "drift",
+        "pos": "vi.",
+        "verb_pattern": "drift-drifted-drifted",
+        "definition_zh": "漂流",
+        "definition_en": "to move in a certain direction smoothly and slowly, usually on water or in the air",
+        "examples": [
+          {
+            "example": "After the captain fell asleep, the ship passed the harbor and then <b>drifted</b> toward the middle of the sea.",
+            "translate": "在船長睡著之後，這艘船越過港口接著漂向海中央。"
+          }
+        ],
+        "number": "wp_5"
+      },
+      {
+        "root_word": "envy",
+        "word": "envy",
+        "phonetics": "[`ɛnvɪ]",
+        "syllable": "en·vy",
+        "pos": "vt.",
+        "verb_pattern": "envy-envied-envied",
+        "definition_zh": "羨慕",
+        "definition_en": "to desire the same qualities, possessions, opportunities, etc. that someone else has",
+        "examples": [
+          {
+            "example": "Christopher really <b>envies</b> his best friend, Patty, because she has been to so many countries.",
+            "translate": "Christopher真的很羨慕他最好的朋友Patty，因為她已經去過非常多國家。"
+          }
+        ],
+        "number": "wp_6"
+      },
+      {
+        "root_word": "envy",
+        "word": "envy",
+        "phonetics": "[`ɛnvɪ]",
+        "syllable": "en·vy",
+        "pos": "n.",
+        "definition_zh": "羨慕",
+        "definition_en": "",
+        "examples": [
+          {
+            "example": "Kyle looked with <b>envy</b> at his friend’s smartphone since it was much newer and better than his.",
+            "translate": "Kyle羨慕地看著他朋友的智慧型手機，因為比他的手機更新更好。"
+          }
+        ],
+        "number": "wp_6_1"
+      },
+      {
+        "root_word": "crowd",
+        "word": "crowded",
+        "phonetics": "[`kraʊdɪd]",
+        "syllable": "crowd·ed",
+        "pos": "adj.",
+        "definition_zh": "擠滿的；擁擠的",
+        "definition_en": "filled with things or people",
+        "examples": [
+          {
+            "example": "The Smith family is moving into a new house tomorrow, so their living room is <b>crowded</b> with boxes.",
+            "translate": "Smith一家人將在明天搬入新家，所以他們的客廳擠滿了箱子。"
+          }
+        ],
+        "number": "wp_7"
+      },
+      {
+        "root_word": "crowd",
+        "word": "crowd",
+        "phonetics": "[kraʊd]",
+        "syllable": "crowd",
+        "pos": "n.",
+        "definition_zh": "人群",
+        "definition_en": "",
+        "examples": [
+          {
+            "example": "The singer performed her three newest songs in front of a <b>crowd</b> of excited fans.",
+            "translate": "這位歌手在一群興奮的歌迷面前表演三首她最新的歌曲。"
+          }
+        ],
+        "number": "wp_7_1"
+      },
+      {
+        "root_word": "obvious",
+        "word": "obviously",
+        "phonetics": "[`ɑbvɪəslɪ]",
+        "syllable": "ob·vi·ous·ly",
+        "pos": "adv.",
+        "definition_zh": "顯然",
+        "definition_en": "used to indicate that something is very easy to see or understand",
+        "examples": [
+          {
+            "example": "The little girl is wearing yellow shoes, a yellow dress, and has painted her nails yellow. <b>Obviously</b>, she likes this color.",
+            "translate": "這個小女孩正穿著黃色的鞋子跟黃色的洋裝，而且還把她的指甲塗成黃色。顯然她喜歡這個顏色。"
+          }
+        ],
+        "number": "wp_8"
+      },
+      {
+        "root_word": "obvious",
+        "word": "obvious",
+        "phonetics": "[`ɑbvɪəs]",
+        "syllable": "ob·vi·ous",
+        "pos": "adj.",
+        "definition_zh": "明顯的",
+        "definition_en": "",
+        "examples": [
+          {
+            "example": "It was quite <b>obvious</b> to Carrie’s friends that she was in love with Mike because she couldn’t stop talking about him.",
+            "translate": "Carrie愛上Mike這件事對她的朋友來說是相當明顯的，因為她總是談論到他。"
+          }
+        ],
+        "number": "wp_8_1"
+      },
+      {
+        "root_word": "product",
+        "word": "product",
+        "phonetics": "[`prɑdəkt]",
+        "syllable": "prod·uct",
+        "pos": "n. [C]",
+        "definition_zh": "產品",
+        "definition_en": "something that is grown or produced, and usually sold",
+        "examples": [
+          {
+            "example": "This shop sells a variety of health and food <b>products</b> for babies.",
+            "translate": "這家商店販售各式各樣的嬰兒專用的健康產品和食品。"
+          }
+        ],
+        "number": "wp_9"
+      },
+      {
+        "root_word": "product",
+        "word": "produce",
+        "phonetics": "[prə`dus]",
+        "syllable": "pro·duce",
+        "pos": "vt.",
+        "verb_pattern": "produce-produced-produced",
+        "definition_zh": "製造；生產",
+        "definition_en": "",
+        "examples": [
+          {
+            "example": "This company <b>produces</b> more computers than any other company in the world.",
+            "translate": "這家公司比世界上任何其他公司所製造的電腦都還要多。"
+          }
+        ],
+        "number": "wp_9_1"
+      },
+      {
+        "root_word": "product",
+        "word": "production",
+        "phonetics": "[prə`dʌkʃən]",
+        "syllable": "pro·duc·tion",
+        "pos": "n.",
+        "definition_zh": "製造",
+        "definition_en": "",
+        "examples": [
+          {
+            "example": "Taiwan is known for the <b>production</b> of high-quality bicycles like those that are made by Giant.",
+            "translate": "臺灣以製造高品質腳踏車聞名，像是捷安特所製造的腳踏車。"
+          }
+        ],
+        "number": "wp_9_2"
+      },
+      {
+        "root_word": "consume",
+        "word": "consume",
+        "phonetics": "[kən`sum]",
+        "syllable": "con·sume",
+        "pos": "vt.",
+        "verb_pattern": "consume-consumed-consumed",
+        "definition_zh": "吃喝",
+        "definition_en": "to eat or drink something",
+        "examples": [
+          {
+            "example": "Driving after you <b>consume</b> too much beer or wine can lead to a car crash.",
+            "translate": "飲用太多啤酒或葡萄酒後開車可能會造成車禍。"
+          }
+        ],
+        "number": "wp_10"
+      },
+      {
+        "root_word": "consume",
+        "word": "consume",
+        "phonetics": "[kən`sum]",
+        "syllable": "con·sume",
+        "pos": "vt.",
+        "verb_pattern": "consume-consumed-consumed",
+        "definition_zh": "消耗",
+        "definition_en": "",
+        "examples": [
+          {
+            "example": "Finishing his assignments <b>consumes</b> most of Riley’s free time in the evening and on the weekend.",
+            "translate": "完成作業耗掉Riley大部分傍晚和週末的空閒時間。"
+          }
+        ],
+        "number": "wp_10_1"
+      },
+      {
+        "root_word": "consume",
+        "word": "consumer",
+        "phonetics": "[kən`sumɚ]",
+        "syllable": "con·sum·er",
+        "pos": "n.",
+        "definition_zh": "消費者",
+        "definition_en": "",
+        "examples": [
+          {
+            "example": "The study found that our city is the largest <b>consumer</b> of water in the country.",
+            "translate": "這份研究發現我們是國內耗水量最大的城市。"
+          }
+        ],
+        "number": "wp_10_2"
+      },
+      {
+        "root_word": "poison",
+        "word": "poisonous",
+        "phonetics": "[`pɔɪznəs]",
+        "syllable": "poi·son·ous",
+        "pos": "adj.",
+        "definition_zh": "有毒的",
+        "definition_en": "able to make a person or animal die or become ill if consumed or entering the body",
+        "examples": [
+          {
+            "example": "Chocolate is delicious for most people, but did you know that it can be <b>poisonous</b> to dogs?",
+            "translate": "巧克力對大部分的人來說很美味，但是你知道對狗來說它可能是有毒的嗎？"
+          }
+        ],
+        "number": "wp_11"
+      },
+      {
+        "root_word": "poison",
+        "word": "poison",
+        "phonetics": "[`pɔɪzṇ]",
+        "syllable": "poi·son",
+        "pos": "vt.",
+        "verb_pattern": "poison-poisoned-poisoned",
+        "definition_zh": "毒害",
+        "definition_en": "",
+        "examples": [
+          {
+            "example": "Andy tried to <b>poison</b> the cockroaches in his apartment with a chemical he bought at the store, but it didn’t work.",
+            "translate": "Andy試著用他從商店買來的化學藥劑來毒死公寓裡的蟑螂，但沒有效。"
+          }
+        ],
+        "number": "wp_11_1"
+      },
+      {
+        "root_word": "poison",
+        "word": "poison",
+        "phonetics": "[`pɔɪzṇ]",
+        "syllable": "poi·son",
+        "pos": "n.",
+        "definition_zh": "毒藥；毒素",
+        "definition_en": "",
+        "examples": [
+          {
+            "example": "Nobody except for the scientists is allowed to enter the testing room because there are several deadly <b>poisons</b> in there.",
+            "translate": "除了那些科學家以外，沒有人被允許進入試驗室，因為裡面有幾種致命的毒藥。"
+          },
+          {
+            "example": "The rock star almost died after he took <b>poison</b> by mistake; he thought it was a soft drink.",
+            "translate": "那位搖滾歌手錯喝毒藥後差點喪命；他以為那是汽水。"
+          }
+        ],
+        "number": "wp_11_2"
+      },
+      {
+        "root_word": "substance",
+        "word": "substance",
+        "phonetics": "[`sʌbstəns]",
+        "syllable": "sub·stance",
+        "pos": "n. [C]",
+        "definition_zh": "物質",
+        "definition_en": "a kind of solid, liquid, or gas that has certain qualities",
+        "examples": [
+          {
+            "example": "The police found a chemical <b>substance</b> at the murder scene and are doing tests on it right now.",
+            "translate": "警方在謀殺現場發現一種化學物質，現在正在對它進行檢驗。"
+          }
+        ],
+        "number": "wp_12"
+      },
+      {
+        "root_word": "recycle",
+        "word": "recycling",
+        "phonetics": "[͵riˋsaɪkḷɪŋ]",
+        "syllable": "re·cy·cling",
+        "pos": "n. [U]",
+        "definition_zh": "回收",
+        "definition_en": "a process of treating used items such as plastic, metal, glass, etc. so that they can be used again",
+        "examples": [
+          {
+            "example": "After the party, Nick took all the empty bottles out for <b>recycling</b>.",
+            "translate": "派對過後，Nick把所有空瓶子拿到外面回收。"
+          }
+        ],
+        "number": "wp_13"
+      },
+      {
+        "root_word": "recycle",
+        "word": "recycle",
+        "phonetics": "[ri`saɪkḷ]",
+        "syllable": "re·cy·cle",
+        "pos": "vt.",
+        "verb_pattern": "recycle-recycled-recycled",
+        "definition_zh": "回收",
+        "definition_en": "",
+        "examples": [
+          {
+            "example": "Many people don’t realize that about 75% of the waste they <b>produce</b> can be <b>recycled</b>.",
+            "translate": "許多人不了解他們製造的廢棄物約有百分之七十五可以被回收。"
+          }
+        ],
+        "number": "wp_13_1"
+      },
+      {
+        "root_word": "harm",
+        "word": "harm",
+        "phonetics": "[hɑrm]",
+        "syllable": "harm",
+        "pos": "n. [U]",
+        "definition_zh": "傷害",
+        "definition_en": "damage or injury",
+        "examples": [
+          {
+            "example": "The cleaners were careful not to do any <b>harm</b> to the objects in the museum as they cleaned around them.",
+            "translate": "在清潔的時候，那些清潔工很小心避免損傷博物館裡的物品。"
+          }
+        ],
+        "number": "wp_14"
+      },
+      {
+        "root_word": "harm",
+        "word": "harm",
+        "phonetics": "[hɑrm]",
+        "syllable": "harm",
+        "pos": "vt.",
+        "verb_pattern": "harm-harmed-harmed",
+        "definition_zh": "傷害",
+        "definition_en": "",
+        "examples": [
+          {
+            "example": "Rebecca put the puppy down carefully in order not to <b>harm</b> it.",
+            "translate": "Rebecca小心翼翼地將小狗放下以免傷害到牠。"
+          }
+        ],
+        "number": "wp_14_1"
+      },
+      {
+        "root_word": "harm",
+        "word": "harmful",
+        "phonetics": "[`hɑrmfəl]",
+        "syllable": "harm·ful",
+        "pos": "adj.",
+        "definition_zh": "有害的",
+        "definition_en": "",
+        "examples": [
+          {
+            "example": "Looking at the sun for too long is <b>harmful</b> to your eyes.",
+            "translate": "直視太陽太久會對你的眼睛有害。"
+          }
+        ],
+        "number": "wp_14_2"
+      },
+      {
+        "root_word": "environment",
+        "word": "environment",
+        "phonetics": "[ɪn`vaɪrənmənt]",
+        "syllable": "en·vi·ron·ment",
+        "pos": "n. sing.",
+        "definition_zh": "自然環境",
+        "definition_en": "the natural world in which living things exist",
+        "examples": [
+          {
+            "example": "It is every person’s responsibility to save the earth’s natural <b>environment</b> for our sons and daughters.",
+            "translate": "為我們未來的子女拯救地球的自然環境是每一個人的責任。"
+          }
+        ],
+        "number": "wp_15"
+      },
+      {
+        "root_word": "environment",
+        "word": "environment",
+        "phonetics": "[ɪn`vaɪrənmənt]",
+        "syllable": "en·vi·ron·ment",
+        "pos": "n.",
+        "definition_zh": "環境",
+        "definition_en": "",
+        "examples": [
+          {
+            "example": "All company owners should create a safe working <b>environment</b> for their employees.",
+            "translate": "所有企業主應該為他們的員工創造一個安全的工作環境。"
+          },
+          {
+            "example": "<b>Environment</b> plays a key role in the way humans develop and learn new things.",
+            "translate": "環境在人類如何發展及學習新事物上扮演一個關鍵的角色。"
+          }
+        ],
+        "number": "wp_15_1"
+      },
+      {
+        "root_word": "environment",
+        "word": "environmental",
+        "phonetics": "[ɪnˏvaɪrən`mɛntḷ]",
+        "syllable": "en·vi·ron·men·tal",
+        "pos": "adj.",
+        "definition_zh": "自然環境的",
+        "definition_en": "",
+        "examples": [
+          {
+            "example": "The president’s speech to the students will focus on <b>environmental</b> problems such as shrinking forests and climate change.",
+            "translate": "總統對那群學生的演講將會著重在像是逐漸縮減的森林和氣候變遷等環境問題。"
+          }
+        ],
+        "number": "wp_15_2"
+      },
+      {
+        "root_word": "proper",
+        "word": "properly",
+        "phonetics": "[`prɑpɚlɪ]",
+        "syllable": "prop·er·ly",
+        "pos": "adv.",
+        "definition_zh": "適當地",
+        "definition_en": "in the correct or most suitable manner",
+        "examples": [
+          {
+            "example": "Marc didn’t complete the assignment <b>properly</b>, so the teacher asked him to do it again.",
+            "translate": "Marc沒有好好地完成作業，所以老師要求他重做。"
+          }
+        ],
+        "number": "wp_16"
+      },
+      {
+        "root_word": "proper",
+        "word": "proper",
+        "phonetics": "[`prɑpɚ]",
+        "syllable": "prop·er",
+        "pos": "adj.",
+        "definition_zh": "適當的",
+        "definition_en": "",
+        "examples": [
+          {
+            "example": "Silly jokes should only be told at the <b>proper</b> place and time.",
+            "translate": "愚蠢的笑話應該在適當的地點跟時間才能說。"
+          }
+        ],
+        "number": "wp_16_1"
+      }
+    ]
+  },
+  {
+    "section": "Idioms and Phrases",
+    "word_forms": [
+      {
+        "root_word": "come along",
+        "word": "come along",
+        "phonetics": "",
+        "syllable": "",
+        "pos": "",
+        "definition_zh": "到達；出現",
+        "definition_en": "to show up or arrive at a place",
+        "examples": [
+          {
+            "example": "Jane said she’s not ready to join us yet, but she will <b>come along</b> later.",
+            "translate": "Jane說她還沒準備好要加入我們，但她待會就會到。"
+          }
+        ],
+        "number": "ip_1"
+      },
+      {
+        "root_word": "pack...up",
+        "word": "pack...up",
+        "phonetics": "",
+        "syllable": "",
+        "pos": "",
+        "definition_zh": "收拾；打包",
+        "definition_en": "to put things into a box, piece of luggage, etc. to transport them",
+        "examples": [
+          {
+            "example": "After Mr. Huang got fired, he sadly <b>packed</b> all of his things <b>up</b> and left.",
+            "translate": "在黃先生被解僱之後，他很難過地將他所有的東西打包後離開。"
+          }
+        ],
+        "number": "ip_2"
+      },
+      {
+        "root_word": "on one’s own",
+        "word": "on one’s own",
+        "phonetics": "",
+        "syllable": "",
+        "pos": "",
+        "definition_zh": "獨自；靠自己",
+        "definition_en": "by oneself",
+        "examples": [
+          {
+            "example": "Lily loves to go fishing <b>on her own</b>, so she can listen to the sound of the sea.",
+            "translate": "Lily喜歡獨自去釣魚，這樣她才能聆聽大海的聲音。"
+          }
+        ],
+        "number": "ip_3"
+      },
+      {
+        "root_word": "for a while",
+        "word": "for a while",
+        "phonetics": "",
+        "syllable": "",
+        "pos": "",
+        "definition_zh": "一陣子",
+        "definition_en": "for a (usually short) period of time",
+        "examples": [
+          {
+            "example": "The lion hid behind a tree <b>for a while</b>, waiting for a deer to walk by.",
+            "translate": "那隻獅子躲在樹後一陣子，等著鹿兒經過。"
+          }
+        ],
+        "number": "ip_4"
+      },
+      {
+        "root_word": "end up",
+        "word": "end up",
+        "phonetics": "",
+        "syllable": "",
+        "pos": "",
+        "definition_zh": "最後結果是",
+        "definition_en": "to be in a certain place, state, or situation after doing something",
+        "examples": [
+          {
+            "example": "The family couldn’t agree on a restaurant to go to, so they <b>ended up</b> staying home and eating pizza.",
+            "translate": "這家人對於去哪家餐廳無法達成共識，所以他們最後就待在家裡吃披薩。"
+          }
+        ],
+        "number": "ip_5"
+      }
+    ]
+  },
+  {
+    "section": "Words for Recognition",
+    "word_forms": [
+      {
+        "root_word": "howl",
+        "word": "howl",
+        "phonetics": "[haʊl]",
+        "syllable": "howl",
+        "pos": "vi.",
+        "definition_zh": "（風）呼嘯；狂嚎",
+        "definition_en": "",
+        "examples": [],
+        "number": "wr_1"
+      },
+      {
+        "root_word": "current",
+        "word": "current",
+        "phonetics": "[`kɝənt]",
+        "syllable": "cur·rent",
+        "pos": "n. [C] ",
+        "definition_zh": "水流",
+        "definition_en": "",
+        "examples": [],
+        "number": "wr_2"
+      },
+      {
+        "root_word": "tunnel",
+        "word": "tunnel",
+        "phonetics": "[`tʌnḷ]",
+        "syllable": "tun·nel",
+        "pos": "n. [C] ",
+        "definition_zh": "隧道",
+        "definition_en": "",
+        "examples": [],
+        "number": "wr_3"
+      },
+      {
+        "root_word": "chamber",
+        "word": "chamber",
+        "phonetics": "[`tʃembɚ]",
+        "syllable": "cham·ber",
+        "pos": "n. [C] ",
+        "definition_zh": "腔室",
+        "definition_en": "",
+        "examples": [],
+        "number": "wr_4"
+      },
+      {
+        "root_word": "swallow",
+        "word": "swallow",
+        "phonetics": "[`swɑlo]",
+        "syllable": "swal·low",
+        "pos": "vt.",
+        "definition_zh": "吞",
+        "definition_en": "",
+        "examples": [],
+        "number": "wr_5"
+      },
+      {
+        "root_word": "nutritious",
+        "word": "nutritious",
+        "phonetics": "[nu`trɪʃəs]",
+        "syllable": "nu·tri·tious",
+        "pos": "adj.",
+        "definition_zh": "營養的",
+        "definition_en": "",
+        "examples": [],
+        "number": "wr_6"
+      },
+      {
+        "root_word": "decompose",
+        "word": "decompose",
+        "phonetics": "[ˏdikəm`poz]",
+        "syllable": "de·com·pose",
+        "pos": "vi.",
+        "definition_zh": "分解",
+        "definition_en": "",
+        "examples": [],
+        "number": "wr_7"
+      },
+      {
+        "root_word": "tongs",
+        "word": "tongs",
+        "phonetics": "[tɔŋz]",
+        "syllable": "tongs",
+        "pos": "n. pl.",
+        "definition_zh": "夾具",
+        "definition_en": "",
+        "examples": [],
+        "number": "wr_8"
+      },
+      {
+        "root_word": "pinch",
+        "word": "pinch",
+        "phonetics": "[pɪntʃ]",
+        "syllable": "pinch",
+        "pos": "n. [C]",
+        "definition_zh": "捏；擰",
+        "definition_en": "",
+        "examples": [],
+        "number": "wr_9"
+      },
+      {
+        "root_word": "littering",
+        "word": "littering",
+        "phonetics": "[`lɪtɚɪŋ]",
+        "syllable": "lit·ter·ing",
+        "pos": "n. [U]",
+        "definition_zh": "亂丟垃圾",
+        "definition_en": "",
+        "examples": [],
+        "number": "wr_10"
+      },
+      {
+        "root_word": "recycling plant",
+        "word": "recycling plant",
+        "phonetics": "[ri`saɪkḷɪŋ ͵plænt]",
+        "syllable": "re·cy·cling plant",
+        "pos": "n. [C]",
+        "definition_zh": "回收場",
+        "definition_en": "",
+        "examples": [],
+        "number": "wr_11"
+      },
+      {
+        "root_word": "misuse",
+        "word": "misuse",
+        "phonetics": "[mɪs`juz]",
+        "syllable": "mis·use",
+        "pos": "vt.",
+        "definition_zh": "錯誤使用",
+        "definition_en": "",
+        "examples": [],
+        "number": "wr_12"
+      }
+    ]
+  }
+]

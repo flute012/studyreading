@@ -1,0 +1,44 @@
+{
+    "L04-課文中英對照(Sniffing Out More Than Just Bones).docx": [
+        {
+            "paragraph_index": 1,
+            "english": "Have you ever noticed that dogs are able to smell things that we can’t? This is because a dog’s sense of smell is far more sensitive than a human’s. For this reason, some dogs are specially trained to become “sniffer dogs,” which use their keen sense of smell to detect certain items such as hidden drugs. But this isn’t the only task that sniffer dogs can accomplish. Here are a few more interesting ways that these amazing animals can help humans out.",
+            "english_with_html": "Have you ever noticed that dogs are able to smell things that we can’t<span style=\"color: #FF0000\">^</span>? This is because a dog’s sense of smell is far more <b id=\"wp_1\">sensitive</b><span style=\"color: #0070C0\"> </span> than a human’s<span style=\"color: #FF0000\">^</span>. For this reason, some do gs are specially trained to become “<b>sniffer dogs</b>,” which use their <b id=\"wp_2\">keen</b><span style=\"color: #0070C0\"> </span> sense of smell to <b id=\"wp_3\">detect</b><span style=\"color: #0070C0\"> </span> certain <b id=\"wp_4\">items</b><span style=\"color: #0070C0\"> </span>such as hidden drugs. But this isn’t the only task that sniffer dogs can <b id=\"wp_5\">accomplish</b><span style=\"color: #0070C0\"> </span>. Here are a few more interesting ways that these amazing animals can help humans out.",
+            "chinese": "你有沒有注意到狗可以聞到我們聞不到的東西？這是因為狗的嗅覺比人類靈敏得多。因為這個理由，有些狗會被特別訓練為「嗅探犬」，用牠們敏銳的嗅覺去偵測某些物件，例如藏匿的毒品。但這並非嗅探犬能夠完成的唯一任務。以下還有一些這種神奇的動物們能幫忙人類的有趣方式。",
+            "summary": "Summary generation failed",
+            "summary_chinese": "摘要生成失敗"
+        },
+        {
+            "paragraph_index": 2,
+            "english": "In Pingtung, officials in one park use trained dogs to find trees that have “brown root rot” disease. Due to their keen sense of smell, the dogs can detect infected trees. Once they locate such a tree, they sit down beside it until their trainer hands them a treat as a reward. Workers then dig out these trees before they fall and hurt people. Since they have realized how useful these sniffer dogs can be, officials in parks across Taiwan are inviting them to come and help find the trees with brown root rot disease.",
+            "english_with_html": "In Pingtung, <b id=\"wr_3\">officials</b> in one park use trained dogs to find trees that have “<b>brown root rot</b>” <b id=\"wp_6\">disease</b><span style=\"color: #0070C0\"> </span>. <span style=\"color: #0070C0\"><b id=\"ip_1\">Due to</b></span> their keen sense of smell, the dogs can detect <b id=\"wp_7\">infected</b><span style=\"color: #0070C0\"> </span> trees. Once they <b id=\"wp_8\">locate</b><span style=\"color: #0070C0\"> </span> such a tree, they sit down beside it until their trainer hands them a treat as a<b id=\"wp_9\"> reward</b><span style=\"color: #0070C0\"> </span>. Workers then dig out these trees before they fall and hurt people. Since they have realized how useful these sniffer dogs can be, officials in parks across Taiwan are inviting them to come and help find the trees with brown root rot disease.",
+            "chinese": "在屏東，有公園管理處的職員用受訓後的狗發現罹患「褐根病」的樹。既然這些狗有敏銳的嗅覺，可以探查出受感染的樹。一旦牠們發現病樹的位置，牠們會坐在樹旁，直到訓練師給牠們好吃的東西當作獎勵。工作人員便將這些樹挖起，以免樹倒傷人。由於他們了解嗅探犬能發揮極大的功能，於是全臺各地的公園管理人員都找來這些狗兒協助發現患有褐根病的樹。",
+            "summary": "Summary generation failed",
+            "summary_chinese": "摘要生成失敗"
+        },
+        {
+            "paragraph_index": 3,
+            "english": "Sniffer dogs’ ability to detect sickness can be used for more than just locating sick trees. They have also been trained to predict the onset of certain diseases in humans. Maria Tello, who was a 58-year-old woman with diabetes, was asleep one night. All of a sudden, her dog Malachi opened its eyes and got up. By using its powerful nose, it could sense that Maria’s blood sugar was dropping to a dangerously low level. Malachi woke her up and then rushed to get her medicine. It turned out that Malachi saved Maria’s life in this way four more times that year.",
+            "english_with_html": "Sniffer dogs’ <b id=\"wp_10\">ability</b><span style=\"color: #0070C0\"> </span> to detect sickness can be used for more than just locating sick trees. They have also been trained to <b id=\"wp_11\">predict</b><span style=\"color: #0070C0\"> </span> the <b id=\"wr_5\">onset</b> of certain diseases in humans. Maria Tello, who was a 58-year-old woman with <b id=\"wr_6\">diabetes</b>, was asleep one night. <span style=\"color: #0070C0\"><b id=\"ip_2\">All of a sudden</b></span>, her dog Malachi opened its eyes and got up. By using its powerful nose, it could sense that Maria’s <b id=\"wr_7\">blood sugar</b> was dropping to a dangerously low level. Malachi woke her up and then rushed to get her medicine. It <span style=\"color: #0070C0\"><b>turned out</b></span> that Malachi saved Maria’s life in this way four more times that year.",
+            "chinese": "嗅探犬偵測疾病的能力不僅限於發現病樹，牠們也會接受訓練，預測人類某些疾病的發生。Maria Tello是一位58歲的婦人，患有糖尿病。某天晚上睡覺時，突然間她的狗Malachi睜開眼睛站了起來。牠嗅覺強大的鼻子可以感覺到，Maria的血糖降到危險的濃度。Malachi便把Maria弄醒，然後衝去拿她的藥。結果，就在同一年中，Malachi又用這樣的方式救了Maria四次。",
+            "summary": "Summary generation failed",
+            "summary_chinese": "摘要生成失敗"
+        },
+        {
+            "paragraph_index": 4,
+            "english": "How can sniffer dogs manage to do the above-mentioned tasks? The answer is that diseases cause chemical changes in plants, animals, and even the human body. These chemical changes usually create special odors, and trainers need to expose their dogs to these smells many times. The dogs are then taught to perform a certain kind of behavior as an alert, such as sitting down or barking, when they come across these smells. Once their training is complete, sniffer dogs are assigned to carry out specific duties.",
+            "english_with_html": "How can sniffer dogs <b id=\"wp_12\">manage</b><span style=\"color: #0070C0\"> </span> to do the <b>above - mentioned</b> tasks? The answer is that diseases cause <b id=\"wr_9\">chemical</b> changes in plants, animals, and even the human body. These chemical changes usually <b id=\"wp_13\">create</b><span style=\"color: #0070C0\"> </span> special <b id=\"wr_10\">odors</b>, and trainers need to <b id=\"wp_14\">expose</b><span style=\"color: #0070C0\"> </span> their dogs to these smells many times. The dogs are then taught to <b id=\"wp_15\">perform</b><span style=\"color: #0070C0\"> </span> a certain kind of <b id=\"wp_16\">behavior</b><span style=\"color: #0070C0\"> </span> as an <b id=\"wp_17\">alert</b><span style=\"color: #0070C0\"> </span>, such as sitting down or barking, when they <span style=\"color: #0070C0\"><b id=\"ip_4\">come across</b></span> these smells. Once their training is <b id=\"wp_18\">complete</b><span style=\"color: #0070C0\"> </span>, sniffer dogs are <b id=\"wp_19\">assigned</b><span style=\"color: #0070C0\"> </span> to <span style=\"color: #0070C0\"><b id=\"ip_5\">carry out </b></span><b id=\"wp_20\">specific</b><span style=\"color: #0070C0\"> </span> duties.",
+            "chinese": "嗅探犬怎麼有辦法執行到上述的任務？答案是疾病會導致植物、動物、甚至人體產生化學變化，這些化學變化通常會產生特殊的氣味，訓練師必須多次將狗兒暴露在這些氣體中，牠們因此學會在聞到這些氣味時表現出某種行為做為警示，例如坐下或吠叫。一旦嗅探犬的訓練已完成，牠們便會被指派去執行特定的任務。",
+            "summary": "Summary generation failed",
+            "summary_chinese": "摘要生成失敗"
+        },
+        {
+            "paragraph_index": 5,
+            "english": "Dogs really are our best friends. As we continue to understand them better, they can help us more. Who knows in what other ways their sharp sense of smell will be useful to us in the future?",
+            "english_with_html": "Dogs really are our best friends. As we continue to understand them better, they can help us more. Who knows in what other ways their sharp sense of smell will be useful to us in the future?",
+            "chinese": "狗真的是我們最好的朋友。我們愈了解牠們，牠們就愈能幫助我們。誰知道未來牠們敏銳的嗅覺還能在什麼方面協助我們呢？",
+            "summary": "Summary generation failed",
+            "summary_chinese": "摘要生成失敗"
+        }
+    ]
+}

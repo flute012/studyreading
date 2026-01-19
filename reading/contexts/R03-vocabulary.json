@@ -1,0 +1,218 @@
+[
+  {
+    "section": "Words for Production",
+    "word_forms": [
+      {
+        "root_word": "director",
+        "word": "director",
+        "phonetics": "[də`rɛktɚ]",
+        "syllable": "di·rec·tor",
+        "pos": "n. [C]",
+        "definition_zh": "導演",
+        "number": "wp_1"
+      },
+      {
+        "root_word": "documentary",
+        "word": "documentary",
+        "phonetics": "[ˏdɑkjə`mɛntərɪ]",
+        "syllable": "doc·u·men·ta·ry",
+        "pos": "n. [C]",
+        "definition_zh": "紀錄片",
+        "number": "wp_2"
+      },
+      {
+        "root_word": "industry",
+        "word": "industry",
+        "phonetics": "[`ɪndəstrɪ]",
+        "syllable": "in·dus·try",
+        "pos": "n. [C]",
+        "definition_zh": "產業",
+        "number": "wp_3"
+      },
+      {
+        "root_word": "photographer",
+        "word": "photographer",
+        "phonetics": "[fə`tɑgrəfɚ]",
+        "syllable": "pho·tog·ra·pher",
+        "pos": "n. [C]",
+        "definition_zh": "攝影師",
+        "number": "wp_4"
+      },
+      {
+        "root_word": "capture",
+        "word": "capture",
+        "phonetics": "[`kæptʃɚ]",
+        "syllable": "cap·ture",
+        "pos": "vt.",
+        "verb_pattern": "capture-captured-captured",
+        "definition_zh": "拍攝",
+        "number": "wp_5"
+      },
+      {
+        "root_word": "proof",
+        "word": "proof",
+        "phonetics": "[pruf]",
+        "syllable": "proof",
+        "pos": "n. [U]",
+        "definition_zh": "證據",
+        "number": "wp_6"
+      },
+      {
+        "root_word": "damage",
+        "word": "damage",
+        "phonetics": "[`dæmɪdʒ]",
+        "syllable": "dam·age",
+        "pos": "n. [U]",
+        "definition_zh": "損害；傷害",
+        "number": "wp_7"
+      },
+      {
+        "root_word": "effect",
+        "word": "effect",
+        "phonetics": "[ɪ`fɛkt]",
+        "syllable": "ef·fect",
+        "pos": "n. [C]",
+        "definition_zh": "影響",
+        "number": "wp_8"
+      },
+      {
+        "root_word": "conservation",
+        "word": "conservation",
+        "phonetics": "[ˏkɑnsɚ`veʃən]",
+        "syllable": "con·ser·va·tion",
+        "pos": "n. [U]",
+        "definition_zh": "保護",
+        "number": "wp_9"
+      },
+      {
+        "root_word": "record",
+        "word": "record",
+        "phonetics": "[rɪ`kɔrd]",
+        "syllable": "re·cord",
+        "pos": "vt.",
+        "verb_pattern": "record-recorded-recorded",
+        "definition_zh": "記錄",
+        "number": "wp_10"
+      },
+      {
+        "root_word": "disaster",
+        "word": "disaster",
+        "phonetics": "[dɪz`æstɚ]",
+        "syllable": "dis·as·ter",
+        "pos": "n. [C]",
+        "definition_zh": "災難",
+        "number": "wp_11"
+      },
+      {
+        "root_word": "bury",
+        "word": "bury",
+        "phonetics": "[`bɛrɪ]",
+        "syllable": "bur·y",
+        "pos": "vt.",
+        "verb_pattern": "bury-buried-buried",
+        "definition_zh": "掩埋",
+        "number": "wp_12"
+      },
+      {
+        "root_word": "shed",
+        "word": "shed",
+        "phonetics": "[ʃɛd]",
+        "syllable": "shed",
+        "pos": "vt.",
+        "verb_pattern": "shed-shed-shed",
+        "definition_zh": "流下",
+        "number": "wp_13"
+      },
+      {
+        "root_word": "prevent",
+        "word": "prevent",
+        "phonetics": "[prɪ`vɛnt]",
+        "syllable": "pre·vent",
+        "pos": "vt.",
+        "verb_pattern": "prevent-prevented-prevented",
+        "definition_zh": "預防；阻止",
+        "number": "wp_14"
+      },
+      {
+        "root_word": "tragedy",
+        "word": "tragedy",
+        "phonetics": "[`trædʒədɪ]",
+        "syllable": "trag·e·dy",
+        "pos": "n. [C]",
+        "definition_zh": "悲劇",
+        "number": "wp_15"
+      },
+      {
+        "root_word": "masterpiece",
+        "word": "masterpiece",
+        "phonetics": "[`mæstɚˏpis]",
+        "syllable": "mas·ter·piece",
+        "pos": "n. [C]",
+        "definition_zh": "傑作",
+        "number": "wp_16"
+      },
+      {
+        "root_word": "scenery",
+        "word": "scenery",
+        "phonetics": "[`sinərɪ]",
+        "syllable": "scene·ry",
+        "pos": "n. [U]",
+        "definition_zh": "風景；景色",
+        "number": "wp_17"
+      },
+      {
+        "root_word": "impact",
+        "word": "impact",
+        "phonetics": "[`ɪmpækt]",
+        "syllable": "im·pact",
+        "pos": "n. usually sing.",
+        "definition_zh": "影響",
+        "number": "wp_18"
+      },
+      {
+        "root_word": "grateful",
+        "word": "grateful",
+        "phonetics": "[`gretfəl]",
+        "syllable": "grate·ful",
+        "pos": "adj.",
+        "definition_zh": "感激的",
+        "number": "wp_19"
+      }
+    ]
+  },
+  {
+    "section": "Idioms and Phrases",
+    "word_forms": [
+      {
+        "root_word": "start out",
+        "word": "start out",
+        "definition_zh": "開始",
+        "number": "ip_1"
+      },
+      {
+        "root_word": "no longer",
+        "word": "no longer",
+        "definition_zh": "不再",
+        "number": "ip_2"
+      },
+      {
+        "root_word": "on the contrary",
+        "word": "on the contrary",
+        "definition_zh": "相反地",
+        "number": "ip_3"
+      },
+      {
+        "root_word": "tear at one’s heart",
+        "word": "tear at one’s heart",
+        "definition_zh": "使某人傷心欲絕",
+        "number": "ip_4"
+      },
+      {
+        "root_word": "pay off",
+        "word": "pay off",
+        "definition_zh": "得到回報",
+        "number": "ip_5"
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+{
+    "L06-課文中英對照(Built for Freedom).docx": [
+        {
+            "paragraph_index": 1,
+            "english": "It was October 28, 1886. Even though it was a rainy day in New York City, close to a million people were out for their first look at the city’s newest addition on Bedloe’s Island, which was later renamed Liberty Island. When French sculptor Frédéric Auguste Bartholdi removed the large French flag from the front of his latest creation, the crowds cheered and the soldiers fired their guns in celebration. The grand sight before their eyes was the Statue of Liberty.",
+            "english_with_html": "I t was October 28, 1886. <span style=\"color: #0070C0\"><b id=\"ip_1\">Even though</b></span> it was a rainy day in <b>New York City</b>, <span style=\"color: #0070C0\"><b id=\"ip_2\">close to</b></span> a million people were out for their first look at the city’s newest addition on <b>Bedloe’s Island</b>, which was later renamed <b>Liberty Island</b>. When French <b>sculptor</b> <b>Frédéric Auguste Bartholdi</b> <b id=\"wp_3\">removed</b><span style=\"color: #0070C0\"> </span> the large French flag from the front of his latest creation, the crowds cheered and the soldiers fired their guns in <b id=\"wp_4\">celebration</b><span style=\"color: #0070C0\"> </span>. The grand sight before their eyes was the Statue of Liberty.",
+            "chinese": "時間是西元1886年10月28日。儘管在紐約市是一個下著雨的日子，仍有將近一百萬人外出，為了首次觀看這個城市在貝德羅島（後改名為自由島）上最新的成員。當法國雕塑家弗里德利．奧古斯特．巴特勒迪從他最新作品前移開了大面的法國國旗時，群眾們歡呼，而士兵們鳴槍慶祝。在他們眼前的宏偉景象是自由女神像。",
+            "summary": "Summary generation failed",
+            "summary_chinese": "摘要生成失敗"
+        },
+        {
+            "paragraph_index": 2,
+            "english": "The Statue of Liberty is a gift that France presented to America to celebrate its one hundred years of independence from Great Britain. The full height of the monument is 305 feet, and the statue itself stands 151 feet tall. When it was first created, the statue’s copper surface was reddish-brown. Over time, this outer layer has been exposed to the air and oxidized so much that it has turned green.",
+            "english_with_html": "The Statue of Liberty is a gift that France presented to America to celebrate its one hundred years of <b id=\"wp_5\">independence</b><span style=\"color: #0070C0\"> </span> from <b>Great Britain</b>. The full height of the <b id=\"wp_6\">monument</b><span style=\"color: #0070C0\"> </span> is 305 feet, and the statue itself stands 151 feet tall. When it was first created, the statue’s <b>copper</b> surface was <b>reddish-brown</b>. <span style=\"color: #0070C0\"><b id=\"ip_3\">Over time</b></span>, this outer <b>layer</b> has been exposed to the air and <b>oxidized</b> so much that it has turned green.",
+            "chinese": "自由女神像是法國送給美國慶祝它脫離大不列顛獨立一百週年的禮物。這座紀念碑總高度是305英尺，而雕像本身則有151英尺高。它剛被製作出來時，這個雕像的銅製表面是紅棕色的。隨著時間經過，這個外層一直被暴露在空氣中並過於氧化以致於變成綠色。",
+            "summary": "Summary generation failed",
+            "summary_chinese": "摘要生成失敗"
+        },
+        {
+            "paragraph_index": 3,
+            "english": "Each part of the statue has a special meaning. In her left hand, Lady Liberty holds a giant tablet with the date “July 4, 1776” on it. It was on this day that the United States became independent, and the tablet symbolizes a new and free America. A giant torch, which symbolizes that Lady Liberty lights the way to freedom, is held firmly in her right hand.",
+            "english_with_html": "Each part of the statue has a special meaning. In her left hand, Lady Liberty holds a giant <b>tablet</b> with the date “July 4, 1776” on it. It was on this day that the United States became independent, and the tablet <b id=\"wp_7\">symbolizes</b><span style=\"color: #0070C0\"> </span> a new and free America. A giant <b>torch</b>, which symbolizes that Lady Liberty lights the way to freedom, is held <b id=\"wp_8\">firmly</b><span style=\"color: #0070C0\"> </span> in her right hand.",
+            "chinese": "這座雕像的每一個部分都有特別的意義。在她的左手，自由女神拿著一面巨大的牌子，上頭寫著「1776年7月4日」的日期。美國就是在這一天獨立，而這個牌子象徵著一個全新且自由的美國。一把巨大的火炬，象徵著自由女神點亮了前往自由的路，緊握在她的右手中。",
+            "summary": "Summary generation failed",
+            "summary_chinese": "摘要生成失敗"
+        },
+        {
+            "paragraph_index": 4,
+            "english": "Other symbolic parts of the statue include Lady Liberty’s crown, her dress, and the broken chains at her feet. Seven spikes rise from the top of the crown and represent the rays of the sun. Lady Liberty is thus divine and shines her heavenly light on the world. Her robe in the ancient Roman style shows that Bartholdi was also inspired by Libertas, the Roman goddess of freedom. The broken chains represent the end of slavery in the United States and symbolize freedom from unfair treatment.",
+            "english_with_html": "Other symbolic parts of the statue include Lady Liberty’s <b>crown</b>, her dress, and the broken <b>chains</b> at her feet. Seven <b>spikes</b> rise from the top of the crown and <b id=\"wp_9\">represent</b><span style=\"color: #0070C0\"> </span> the rays of the sun. Lady Liberty is thus <b>divine</b> and shines her <b>heavenly</b> light on the world. Her <b>robe</b> in the <b id=\"wp_10\">ancient</b><span style=\"color: #0070C0\"> </span><b>Roman</b> style shows that Bartholdi was also inspired by <b>Libertas</b>, the Roman <b>goddess</b> of freedom. The broken chains represent the end of <b id=\"wp_11\">slavery</b><span style=\"color: #0070C0\"> </span> in the United States and symbolize freedom from <b id=\"wp_12\">unfair</b><span style=\"color: #0070C0\"> </span><b id=\"wp_13\">treatment</b><span style=\"color: #0070C0\"> </span>.",
+            "chinese": "這座雕像其他具象徵意義的部分包括了自由女神的王冠、她的裙裝，以及在她腳邊的斷鍊。七支尖刺從王冠的頂端升起，象徵著太陽的光芒。自由女神因此如神一般，將她神聖的光照耀全世界。她古羅馬風格的長袍顯示巴特勒迪也從羅馬自由女神利貝塔斯獲得靈感。斷鍊象徵美國奴隸制度的結束，並象徵擺脫不平等的對待。",
+            "summary": "Summary generation failed",
+            "summary_chinese": "摘要生成失敗"
+        },
+        {
+            "paragraph_index": 5,
+            "english": "Today, the Statue of Liberty is one of America’s biggest tourist attractions. It is such a popular landmark that every visitor to New York City has heard of it and wants to pay a visit to Liberty Island. As always, Lady Liberty stands tall and proud. She is a symbol of hope and freedom for visitors from around the globe.",
+            "english_with_html": "Today, the Statue of Liberty is one of America’s biggest <b id=\"wp_14\">tourist</b><span style=\"color: #0070C0\"> </span><b id=\"wp_15\">attractions</b><span style=\"color: #0070C0\"> </span>. It is such a popular <b id=\"wp_16\">landmark</b><span style=\"color: #0070C0\"> </span>that every visitor to New York City has heard of it and wants to pay a visit to Liberty Island . <span style=\"color: #0070C0\"><b id=\"ip_5\">As always</b></span>, Lady Liberty stands tall and proud. She is a symbol of hope and freedom for visitors from around the <b id=\"wp_17\">globe</b><span style=\"color: #0070C0\"> </span>.",
+            "chinese": "現今，自由女神像是美國最熱門的觀光景點之一。它是一個如此受歡迎的地標以致於每位到紐約市的遊客都聽說過它，而且想去參觀自由島。一如往常，自由女神充滿自信驕傲矗立。她現在對於來自世界各地的遊客而言是一個希望與自由的象徵。",
+            "summary": "Summary generation failed",
+            "summary_chinese": "摘要生成失敗"
+        }
+    ]
+}
