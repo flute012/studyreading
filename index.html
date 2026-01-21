@@ -30,8 +30,7 @@
 
                 <h1>{{ lessonTitle }}</h1>
 
-                <button id="instructionsBtn" style="position: absolute; right: 1.8%; font-size: 24px;"
-                    @click="toggleInstructions">💡</button>
+
             </div>
         </div>
 
@@ -116,43 +115,6 @@
             </div>
         </div>
 
-        <!-- 音頻進度條 -->
-        <!-- <div id="audio-progress-container">
-            <div id="audio-progress-bar"></div>
-        </div> -->
-
-        <!-- 使用說明模態窗 -->
-        <div id="instructionsModal">
-            <div id="instructionsContent">
-                <div class="instructions-header">
-                    <h2>使用說明</h2>
-                    <button class="close-button" @click="toggleInstructions">×</button>
-                </div>
-                <div class="instructions-body">
-                    <div class="instruction-item">
-                        <span class="instruction-icon">🔊</span>
-                        <p>點擊任意單字，可從該單字朗讀文章</p>
-                    </div>
-                    <div class="instruction-item">
-                        <span class="instruction-icon">📖</span>
-                        <p>點擊<strong>粗體字</strong>可查看詳細解釋</p>
-                    </div>
-                    <div class="instruction-item">
-                        <span class="instruction-icon">⏱️</span>
-                        <p>點擊速度按鈕可調整朗讀速度</p>
-                    </div>
-                    <div class="instruction-item">
-                        <span class="instruction-icon">▶️</span>
-                        <p>使用播放按鈕控制全文朗讀</p>
-                    </div>
-                    <div class="instruction-item">
-                        <span class="instruction-icon">🔄</span>
-                        <p>切換翻譯開關可顯示/隱藏中文翻譯</p>
-                    </div>
-                </div>
-                <button class="got-it-button" @click="toggleInstructions">知道了！</button>
-            </div>
-        </div>
     </div>
 </body>
 
