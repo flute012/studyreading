@@ -1,0 +1,724 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>產品開發流程視覺化</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', 'Microsoft JhengHei', sans-serif;
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+            color: #2c3e50;
+            padding: 40px 20px;
+            line-height: 1.8;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 60px;
+            animation: fadeIn 0.8s ease-out;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            font-weight: 300;
+            color: #495057;
+            margin-bottom: 10px;
+        }
+
+        .header .subtitle {
+            font-size: 1rem;
+            color: #6c757d;
+            font-weight: 300;
+        }
+
+        .context-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 16px;
+            background: linear-gradient(135deg, #fff3cd 0%, #ffe8a1 100%);
+            padding: 16px 24px;
+            border-radius: 12px;
+            margin-top: 24px;
+            box-shadow: 0 4px 16px rgba(255, 193, 7, 0.15);
+            border-left: 4px solid #ffc107;
+            max-width: 600px;
+            text-align: left;
+        }
+
+        .badge-icon {
+            font-size: 2rem;
+            flex-shrink: 0;
+        }
+
+        .badge-content {
+            font-size: 0.9rem;
+            line-height: 1.6;
+            color: #856404;
+        }
+
+        .badge-content strong {
+            color: #6c5200;
+            font-weight: 500;
+        }
+
+        .timeline {
+            position: relative;
+            padding: 20px 0;
+        }
+
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 50%;
+            top: 0;
+            bottom: 0;
+            width: 3px;
+            background: linear-gradient(180deg, #dee2e6 0%, #adb5bd 50%, #dee2e6 100%);
+            transform: translateX(-50%);
+            z-index: 0;
+        }
+
+        .phase {
+            margin-bottom: 80px;
+            animation: slideIn 0.6s ease-out forwards;
+            opacity: 0;
+            position: relative;
+        }
+
+        .phase:nth-child(1) {
+            animation-delay: 0.1s;
+        }
+
+        .phase:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+
+        .phase:nth-child(3) {
+            animation-delay: 0.3s;
+        }
+
+        .phase:nth-child(4) {
+            animation-delay: 0.4s;
+        }
+
+        .phase-header {
+            text-align: center;
+            margin-bottom: 40px;
+            position: relative;
+            z-index: 2;
+        }
+
+        .phase-number {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 60px;
+            height: 60px;
+            background: white;
+            border-radius: 50%;
+            font-size: 1.5rem;
+            font-weight: 300;
+            color: #6c757d;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+            margin-bottom: 15px;
+            position: relative;
+            z-index: 3;
+        }
+
+        .phase-title {
+            font-size: 1.8rem;
+            font-weight: 300;
+            color: #495057;
+            margin-bottom: 8px;
+        }
+
+        .phase-duration {
+            font-size: 0.9rem;
+            color: #868e96;
+            font-weight: 300;
+        }
+
+        .cards-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .card {
+            background: white;
+            border-radius: 16px;
+            padding: 24px;
+            box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+            position: relative;
+        }
+
+        .card::before {
+            content: '';
+            position: absolute;
+            width: 2px;
+            height: 30px;
+            background: #dee2e6;
+            top: -30px;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+        .card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+        }
+
+        .card-icon {
+            font-size: 2rem;
+            margin-bottom: 12px;
+        }
+
+        .card-title {
+            font-size: 1.1rem;
+            font-weight: 400;
+            color: #495057;
+            margin-bottom: 12px;
+        }
+
+        .card-content {
+            font-size: 0.95rem;
+            color: #6c757d;
+            line-height: 1.6;
+        }
+
+        .card-list {
+            list-style: none;
+            padding: 0;
+        }
+
+        .card-list li {
+            padding: 6px 0;
+            padding-left: 20px;
+            position: relative;
+        }
+
+        .card-list li::before {
+            content: '•';
+            position: absolute;
+            left: 0;
+            color: #adb5bd;
+        }
+
+        .status-card {
+            background: linear-gradient(135deg, #fff5f5 0%, #ffe3e3 100%);
+            border-left: 4px solid #ffa8a8;
+        }
+
+        .success-card {
+            background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+            border-left: 4px solid #86efac;
+        }
+
+        .decision-card {
+            background: linear-gradient(135deg, #fef3ff 0%, #fae8ff 100%);
+            border-left: 4px solid #d8b4fe;
+        }
+
+        .iteration-badge {
+            display: inline-block;
+            background: #fff;
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            color: #f03e3e;
+            margin-top: 8px;
+            box-shadow: 0 2px 8px rgba(240, 62, 62, 0.15);
+        }
+
+        .success-badge {
+            background: #fff;
+            color: #37b24d;
+            box-shadow: 0 2px 8px rgba(55, 178, 77, 0.15);
+        }
+
+        .flow-arrow {
+            text-align: center;
+            margin: 30px 0;
+            position: relative;
+            z-index: 2;
+        }
+
+        .flow-arrow-container {
+            display: inline-flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .arrow-line {
+            width: 3px;
+            height: 40px;
+            background: linear-gradient(180deg, #adb5bd 0%, #868e96 100%);
+            border-radius: 2px;
+        }
+
+        .arrow-head {
+            width: 0;
+            height: 0;
+            border-left: 12px solid transparent;
+            border-right: 12px solid transparent;
+            border-top: 16px solid #868e96;
+        }
+
+        .arrow-label {
+            font-size: 0.85rem;
+            color: #868e96;
+            padding: 4px 12px;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+            margin-top: 8px;
+        }
+
+        .results-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 16px;
+            margin-top: 30px;
+            position: relative;
+        }
+
+        .results-grid::before {
+            content: '';
+            position: absolute;
+            top: -50px;
+            left: 50%;
+            width: 3px;
+            height: 50px;
+            background: linear-gradient(180deg, #adb5bd 0%, transparent 100%);
+            transform: translateX(-50%);
+        }
+
+        .result-card {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+            position: relative;
+        }
+
+        .result-card::before {
+            content: '';
+            position: absolute;
+            width: 2px;
+            height: 30px;
+            background: #e9ecef;
+            top: -30px;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+        .result-icon {
+            font-size: 2.5rem;
+            margin-bottom: 12px;
+        }
+
+        .result-value {
+            font-size: 1.8rem;
+            font-weight: 300;
+            color: #495057;
+            margin-bottom: 6px;
+        }
+
+        .result-label {
+            font-size: 0.9rem;
+            color: #868e96;
+        }
+
+        .connection-line {
+            position: absolute;
+            background: #dee2e6;
+            z-index: 0;
+        }
+
+        .horizontal-line {
+            height: 2px;
+            top: 50%;
+            left: 50%;
+            right: 0;
+        }
+
+        .vertical-line {
+            width: 2px;
+            left: 50%;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateX(-30px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 1.8rem;
+            }
+
+            .phase-title {
+                font-size: 1.4rem;
+            }
+
+            .cards-container {
+                grid-template-columns: 1fr;
+            }
+
+            .timeline::before {
+                left: 20px;
+            }
+
+            .card::before {
+                display: none;
+            }
+
+            .result-card::before {
+                display: none;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>產品開發流程視覺化</h1>
+            <p class="subtitle">66課語音互動內容製作 · 一個月技術探索紀錄</p>
+            <div class="context-badge">
+                <span class="badge-icon">🏢</span>
+                <div class="badge-content">
+                    <strong>專案背景</strong><br>
+                    傳統出版社數位轉型 · 工程部門專注核心資料庫 · 此專案採 AI 協作自主完成 · 無跨部門技術支援
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline">
+            <!-- 階段1: 初始需求與瀏覽器測試 -->
+            <div class="phase">
+                <div class="phase-header">
+                    <div class="phase-number">1</div>
+                    <h2 class="phase-title">瀏覽器 API 測試階段</h2>
+                    <p class="phase-duration">Week 1-2 · 多平台相容性驗證</p>
+                </div>
+
+                <div class="cards-container">
+                    <div class="card">
+                        <div class="card-icon">🎯</div>
+                        <h3 class="card-title">初始需求</h3>
+                        <div class="card-content">
+                            40課內容需要：
+                            <ul class="card-list">
+                                <li>精準逐字高亮</li>
+                                <li>互動字卡功能</li>
+                                <li>跨平台穩定性</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-icon">🔬</div>
+                        <h3 class="card-title">測試項目</h3>
+                        <div class="card-content">
+                            <ul class="card-list">
+                                <li>Chrome 語音 API</li>
+                                <li>Safari 語音 API</li>
+                                <li>Firefox 語音 API</li>
+                                <li>Edge 語音 API</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="card status-card">
+                        <div class="card-icon">❌</div>
+                        <h3 class="card-title">評估結果</h3>
+                        <div class="card-content">
+                            <ul class="card-list">
+                                <li>跨平台相容性差</li>
+                                <li>精準度不穩定</li>
+                                <li>無法滿足需求</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="flow-arrow">
+                <div class="flow-arrow-container">
+                    <div class="arrow-line"></div>
+                    <div class="arrow-head"></div>
+                    <div class="arrow-label">尋找替代方案</div>
+                </div>
+            </div>
+
+            <!-- 階段2: 第三方 API 評估 -->
+            <div class="phase">
+                <div class="phase-header">
+                    <div class="phase-number">2</div>
+                    <h2 class="phase-title">第三方 API 評估階段</h2>
+                    <p class="phase-duration">Week 2-3 · 大廠方案可行性分析</p>
+                </div>
+
+                <div class="cards-container">
+                    <div class="card">
+                        <div class="card-icon">☁️</div>
+                        <h3 class="card-title">AWS Polly</h3>
+                        <div class="card-content">
+                            測試語音合成與時間戳精準度
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-icon">🎤</div>
+                        <h3 class="card-title">Google TTS</h3>
+                        <div class="card-content">
+                            評估多語言支援與客製化能力
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-icon">🔊</div>
+                        <h3 class="card-title">Azure Speech</h3>
+                        <div class="card-content">
+                            測試串接複雜度與費用結構
+                        </div>
+                    </div>
+
+                    <div class="card status-card">
+                        <div class="card-icon">💰</div>
+                        <h3 class="card-title">評估結果</h3>
+                        <div class="card-content">
+                            <ul class="card-list">
+                                <li>成本過高</li>
+                                <li>客製化困難</li>
+                                <li>依賴第三方風險</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="cards-container">
+                    <div class="card decision-card">
+                        <div class="card-icon">🎯</div>
+                        <h3 class="card-title">關鍵決策</h3>
+                        <div class="card-content">
+                            放棄現成語音 API<br>
+                            決定開發自製精準時間戳方案
+                            <div
+                                style="margin-top: 12px; padding: 8px; background: rgba(255,255,255,0.6); border-radius: 8px; font-size: 0.85rem;">
+                                💡 <strong>策略思維：</strong>避免高成本第三方服務與動態伺服器，採用純前端架構快速交付
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="flow-arrow">
+                <div class="flow-arrow-container">
+                    <div class="arrow-line"></div>
+                    <div class="arrow-head"></div>
+                    <div class="arrow-label">開始核心創新</div>
+                </div>
+            </div>
+
+            <!-- 階段3: LLM 自動化開發 -->
+            <div class="phase">
+                <div class="phase-header">
+                    <div class="phase-number">3</div>
+                    <h2 class="phase-title">自動化方案開發階段</h2>
+                    <p class="phase-duration">Week 3-4 · 技術方案探索與突破</p>
+                </div>
+
+                <div class="cards-container">
+                    <div class="card">
+                        <div class="card-icon">🧠</div>
+                        <h3 class="card-title">NLP 模型研究</h3>
+                        <div class="card-content">
+                            嘗試用 NLTK 處理詞形變化：
+                            <ul class="card-list">
+                                <li>WordNet Lemmatizer</li>
+                                <li>詞性標註（POS Tagging）</li>
+                                <li>詞形分組辨識</li>
+                            </ul>
+                            <div style="margin-top: 8px; font-size: 0.85rem; color: #f03e3e;">
+                                ❌ 準確度不足
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-icon">🤖</div>
+                        <h3 class="card-title">LLM 模型測試</h3>
+                        <div class="card-content">
+                            轉向 LLM 處理語義理解：
+                            <ul class="card-list">
+                                <li>GPT-4 效果評估</li>
+                                <li>Claude 準確度測試</li>
+                                <li>Gemini 比較分析</li>
+                                <li>成本效益平衡</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-icon">📝</div>
+                        <h3 class="card-title">核心挑戰</h3>
+                        <div class="card-content">
+                            Word 資料清理與 ID 配對：
+                            <ul class="card-list">
+                                <li>處理詞性變化</li>
+                                <li>語義理解匹配</li>
+                                <li>格式標準化</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="cards-container">
+                    <div class="card status-card">
+                        <div class="card-icon">🔄</div>
+                        <h3 class="card-title">迭代過程</h3>
+                        <div class="card-content">
+                            Prompt 工程持續優化：
+                            <ul class="card-list">
+                                <li>ID 配對多次出錯</li>
+                                <li>分析錯誤模式</li>
+                                <li>調整策略邏輯</li>
+                                <li>反覆測試驗證</li>
+                            </ul>
+                            <span class="iteration-badge">10+ 次迭代</span>
+                        </div>
+                    </div>
+
+                    <div class="card success-card">
+                        <div class="card-icon">✨</div>
+                        <h3 class="card-title">突破成果</h3>
+                        <div class="card-content">
+                            建立穩定的自動化流程：
+                            <ul class="card-list">
+                                <li>精準時間戳資料</li>
+                                <li>高結構化內容</li>
+                                <li>語義 ID 系統</li>
+                                <li>變形字卡支援</li>
+                            </ul>
+                            <span class="iteration-badge success-badge">✓ 驗證通過</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="flow-arrow">
+                <div class="flow-arrow-container">
+                    <div class="arrow-line"></div>
+                    <div class="arrow-head"></div>
+                    <div class="arrow-label">交付工程團隊</div>
+                </div>
+            </div>
+
+            <!-- 階段4: 工程實現與成果 -->
+            <div class="phase">
+                <div class="phase-header">
+                    <div class="phase-number">4</div>
+                    <h2 class="phase-title">工程實現與規模化</h2>
+                    <p class="phase-duration">快速開發 · 穩定上線</p>
+                </div>
+
+                <div class="cards-container">
+                    <div class="card">
+                        <div class="card-icon">⚙️</div>
+                        <h3 class="card-title">前端實現</h3>
+                        <div class="card-content">
+                            基於高品質結構化資料：
+                            <ul class="card-list">
+                                <li>音檔播放器</li>
+                                <li>逐字高亮功能</li>
+                                <li>互動字卡系統</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="card success-card">
+                        <div class="card-icon">🚀</div>
+                        <h3 class="card-title">專案上線</h3>
+                        <div class="card-content">
+                            40課內容穩定發布<br>
+                            所有功能正常運作
+                        </div>
+                    </div>
+                </div>
+
+                <h3
+                    style="text-align: center; font-size: 1.5rem; font-weight: 300; color: #495057; margin: 60px 0 20px;">
+                    量化效益</h3>
+
+                <div class="results-grid">
+                    <div class="result-card">
+                        <div class="result-icon">⚡</div>
+                        <div class="result-value">>90%</div>
+                        <div class="result-label">效率提升</div>
+                    </div>
+
+                    <div class="result-card">
+                        <div class="result-icon">⏰</div>
+                        <div class="result-value">380hr</div>
+                        <div class="result-label">節省時間</div>
+                    </div>
+
+                    <div class="result-card">
+                        <div class="result-icon">💰</div>
+                        <div class="result-value">$0</div>
+                        <div class="result-label">第三方費用</div>
+                    </div>
+
+                    <div class="result-card">
+                        <div class="result-icon">🔄</div>
+                        <div class="result-value">可複製</div>
+                        <div class="result-label">自動化流程</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
